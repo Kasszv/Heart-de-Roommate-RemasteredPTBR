@@ -68,7 +68,7 @@ translate portugues strings:
 
     # game/scripts/00init.rpy:151
     old "Left One"
-    new "Esquerda"
+    new "O Da Esquerda"
 
     # game/scripts/00init.rpy:152
     old "MAGENTA"
@@ -120,7 +120,7 @@ translate portugues strings:
 
     # game/scripts/00init.rpy:165
     old "Right One"
-    new "Direita"
+    new "O Da Direita"
 
     # game/scripts/00init.rpy:166
     old "Servant 1"
