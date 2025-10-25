@@ -4,11 +4,11 @@ translate portugues strings:
 
     # game/scripts/00init.rpy:129
     old "Akane"
-    new ""
+    new "Akane"
 
     # game/scripts/00init.rpy:131
     old "Asumi"
-    new ""
+    new "Asumi"
 
     # game/scripts/00init.rpy:132
     old "Asumi & Namiki"
@@ -16,7 +16,7 @@ translate portugues strings:
 
     # game/scripts/00init.rpy:133
     old "Asumi & Tomoe"
-    new ""
+    new "Asumi & Tomoe"
 
     # game/scripts/00init.rpy:135
     old "Black Cat"
