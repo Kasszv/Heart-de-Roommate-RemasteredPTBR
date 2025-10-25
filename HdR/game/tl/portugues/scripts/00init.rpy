@@ -12,7 +12,7 @@ translate portugues strings:
 
     # game/scripts/00init.rpy:132
     old "Asumi & Namiki"
-    new ""
+    new "Asumi & Namiki"
 
     # game/scripts/00init.rpy:133
     old "Asumi & Tomoe"
