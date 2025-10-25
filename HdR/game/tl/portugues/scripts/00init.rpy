@@ -12,23 +12,23 @@ translate portugues strings:
 
     # game/scripts/00init.rpy:132
     old "Asumi & Namiki"
-    new "Asumi & Namiki"
+    new "Asumi e Namiki"
 
     # game/scripts/00init.rpy:133
     old "Asumi & Tomoe"
-    new "Asumi & Tomoe"
+    new "Asumi e Tomoe"
 
     # game/scripts/00init.rpy:135
     old "Black Cat"
-    new ""
+    new "Gato Preto"
 
     # game/scripts/00init.rpy:136
     old "Boy"
-    new ""
+    new "Garoto"
 
     # game/scripts/00init.rpy:138
     old "All"
-    new ""
+    new "Todos"
 
     # game/scripts/00init.rpy:140
     old "Girl"
@@ -36,153 +36,152 @@ translate portugues strings:
 
     # game/scripts/00init.rpy:143
     old "Hikaru"
-    new ""
+    new "Hikaru"
 
     # game/scripts/00init.rpy:144
     old "Judge"
-    new ""
+    new "Juiz"
 
     # game/scripts/00init.rpy:145
     old "Kaoru"
-    new ""
+    new "Kaoru"
 
     # game/scripts/00init.rpy:146
     old "Kirimaru"
-    new ""
+    new "Kirimaru"
 
     # game/scripts/00init.rpy:147
     old "Kitten 1"
-    new ""
+    new "Gatinho 1"
 
     # game/scripts/00init.rpy:148
     old "Kitten 2"
-    new ""
+    new "Gatinho 2"
 
     # game/scripts/00init.rpy:149
     old "Kitten 3"
-    new ""
+    new "Gatinho 3"
 
     # game/scripts/00init.rpy:150
     old "Kosuke"
-    new ""
+    new "Kosuke"
 
     # game/scripts/00init.rpy:151
     old "Left One"
-    new ""
+    new "Esquerda"
 
     # game/scripts/00init.rpy:152
     old "MAGENTA"
-    new ""
+    new "MAGENTA"
 
     # game/scripts/00init.rpy:153
     old "Man"
-    new ""
+    new "Homem"
 
     # game/scripts/00init.rpy:154
     old "Marumu"
-    new ""
+    new "Marumu"
 
     # game/scripts/00init.rpy:155
     old "Marutan"
-    new ""
+    new "Marutan"
 
     # game/scripts/00init.rpy:156
     old "Midori"
-    new ""
+    new "Midori"
 
     # game/scripts/00init.rpy:157
     old "Misaki"
-    new ""
+    new "Misaki"
 
     # game/scripts/00init.rpy:158
     old "Moe-Moe"
-    new ""
+    new "Moe-Moe"
 
     # game/scripts/00init.rpy:159
     old "Namiki"
-    new ""
+    new "Namiki"
 
     # game/scripts/00init.rpy:160
     old "Narrator"
-    new ""
+    new "Narrador"
 
     # game/scripts/00init.rpy:161
     old "Nina"
-    new ""
+    new "Nina"
 
     # game/scripts/00init.rpy:162
     old "Others"
-    new ""
+    new "Outros"
 
     # game/scripts/00init.rpy:164
     old "RED"
-    new ""
+    new "VERMELHO"
 
     # game/scripts/00init.rpy:165
     old "Right One"
-    new ""
+    new "Direita"
 
     # game/scripts/00init.rpy:166
     old "Servant 1"
-    new ""
+    new "Servo 1"
 
     # game/scripts/00init.rpy:167
     old "Servant 2"
-    new ""
+    new "Servo 2"
 
     # game/scripts/00init.rpy:168
     old "Shadow Leaders"
-    new ""
+    new "Líderes das Sombras"
 
     # game/scripts/00init.rpy:169
     old "Takuto"
-    new ""
+    new "Takuto"
 
     # game/scripts/00init.rpy:170
     old "Teacher"
-    new ""
+    new "Professor"
 
     # game/scripts/00init.rpy:171
     old "Tomoe"
-    new ""
+    new "Tomoe"
 
     # game/scripts/00init.rpy:172
     old "Tomoe & Marumu"
-    new ""
+    new "Tomoe e Marumu"
 
     # game/scripts/00init.rpy:173
     old "Tomoe's Sister"
-    new ""
+    new "Irmã de Tomoe"
 
     # game/scripts/00init.rpy:174
     old "Toshibo"
-    new ""
+    new "Toshibo"
 
     # game/scripts/00init.rpy:175
     old "Unknown Creature"
-    new ""
+    new "Criatura Desconhecida"
 
     # game/scripts/00init.rpy:176
     old "???"
-    new ""
+    new "???"
 
     # game/scripts/00init.rpy:178
     old "WHITE"
-    new ""
+    new "BRANCO"
 
     # game/scripts/00init.rpy:180
     old "Woman"
-    new ""
+    new "Mulher"
 
     # game/scripts/00init.rpy:181
     old "Ms. Yagami"
-    new ""
+    new "Sra. Yagami"
 
     # game/scripts/00init.rpy:182
     old "Yusuke"
-    new ""
+    new "Yusuke"
 
     # game/scripts/00init.rpy:183
     old "Yusuke & Tomoe"
-    new ""
-
+    new "Yusuke e Tomoe"
