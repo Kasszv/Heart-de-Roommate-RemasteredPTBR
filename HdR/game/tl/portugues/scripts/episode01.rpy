@@ -1738,4 +1738,11 @@ translate portugues strings:
 
     # game/scripts/episode01.rpy:416
     old "Lend me some money for food and a place to stay."
-    new "Me empresta dinheiro para comida e um lugar para ficar."
+    new "Me empresta dinheiro para comida e um lugar para ficar."# TODO: Translation updated at 2025-10-26 15:08
+
+translate portugues strings:
+
+    # game/scripts/episode01.rpy:4
+    old "Episode 1: The Beginning"
+    new "Episódio 1: O Começo"
+
