@@ -2082,4 +2082,11 @@ translate portugues strings:
 
     # game/scripts/episode02.rpy:370
     old "Talk to Tomoe."
-    new "Conversar com Tomoe."
+    new "Conversar com Tomoe."# TODO: Translation updated at 2025-10-26 22:13
+
+translate portugues strings:
+
+    # game/scripts/episode02.rpy:4
+    old "Episode 2: Transformation"
+    new "Episódio 2: Transformação"
+
