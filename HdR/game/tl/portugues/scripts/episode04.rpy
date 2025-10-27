@@ -104,7 +104,7 @@ translate portugues episode04_fef2ccf1:
     # voice as0110
     # asumi "None of your business, you Trio de Bitches! Go away!!"
     voice as0110
-    asumi "Não é da sua conta, seu Trio de Vadi-as! Sumam!!"
+    asumi "Não é da sua conta, seu Trio de Vadias! Sumam!!"
 
 # game/scripts/episode04.rpy:58
 translate portugues episode04_293bbbae:
@@ -112,7 +112,7 @@ translate portugues episode04_293bbbae:
     # voice hs0001
     # girl "Uh, you're quite the conversationalist, Miss Hirota. I must admit you're certainly the leader amongst a group of stupid roommates."
     voice hs0001
-    girl "Uh, você é bem falante, senhorita Hirota. Devo admitir que você é certamente a líder entre um grupo de colegas de quarto estúpidas."
+    girl "Uh, você é realmente boa de conversa, Srta. Hirota. Devo admitir que você é, sem dúvida, a líder de um grupo de colegas de quarto idiotas."
 
 # game/scripts/episode04.rpy:63
 translate portugues episode04_87f33c43:
@@ -484,7 +484,7 @@ translate portugues episode04_e8d73c7d:
     # voice as0123
     # asumi "You can't call me by that name for another ten years! Only my roommates can call me that. And you're not my roommate!!"
     voice as0123
-    asumi asumi "Você não pode me chamar por esse nome pelos próximos dez anos! Só as minhas colegas de quarto podem me chamar assim. E você não é uma delas!!"
+    asumi "Você não pode me chamar por esse nome pelos próximos dez anos! Só as minhas colegas de quarto podem me chamar assim. E você não é uma delas!!"
 
 
 # game/scripts/episode04.rpy:215
@@ -761,7 +761,7 @@ translate portugues episode04_9b13236b:
 translate portugues episode04_4b66c858:
 
     # "A hard-to-understand hand written map."
-    "Um mapa escrito à mão difícil de entender."
+    "Um mapa escrito à mão, difícil de entender."
 
 # game/scripts/episode04.rpy:315
 translate portugues episode04_db623b90:
@@ -815,7 +815,7 @@ translate portugues episode04_3f729fcf:
 translate portugues episode04_ba5ee617:
 
     # yusuke "Why did she include Mt. Fuji and Lake Biwa, which are hundreds of miles apart in this map!?"
-    yusuke "Por que ela incluiu o Monte Fuji e o Lago Biwa, que ficam a centenas de quilômetros de distância, neste mapa!?"
+    yusuke "Por que ela colocou o Monte Fuji e o Lago Biwa, que ficam a centenas de quilômetros de distância, nesse mapa!?"
 
 # game/scripts/episode04.rpy:332
 translate portugues episode04_f912cebd:
@@ -845,7 +845,7 @@ translate portugues episode04_649806c1:
 translate portugues episode04_85b84b53:
 
     # "As soon as she sees me, she starts beckoning me."
-    "Assim que ela me vê, começa a me acenar."
+    "Assim que ela me vê, começa a me chamar."
 
 # game/scripts/episode04.rpy:340
 translate portugues episode04_536f68dd:
@@ -905,13 +905,13 @@ translate portugues episode04_62ecb9f8:
 translate portugues episode04_31d8926e:
 
     # "She looks kind and sexy. And the place she leads me into...almost stops my heart."
-    "Ela parece gentil e sexy. E o lugar para onde ela me leva... quase para meu coração."
+    "Ela parece gentil e sexy. E o lugar para onde ela me leva... quase faz meu coração parar."
 
 # game/scripts/episode04.rpy:368
 translate portugues episode04_f4a3cd38:
 
     # yusuke "Is this place...!?"
-    yusuke "Este lugar é...!?"
+    yusuke "Esse lugar é...!?"
 
 # game/scripts/episode04.rpy:372
 translate portugues episode04_ba83a77b:
@@ -1021,7 +1021,7 @@ translate portugues episode04_c4c37369:
 translate portugues episode04_c53e364f:
 
     # "I receive two critical hits on the back of my head. How can she smack me that hard with her thin arms!?"
-    "Recebo dois golpes críticos na parte de trás da minha cabeça. Como ela pode me bater tão forte com seus braços finos!?"
+    "Levo dois golpes críticos na parte de trás da cabeça. Como é que ela consegue me bater tão forte com esses braços finos!?"
 
 # game/scripts/episode04.rpy:412
 translate portugues episode04_ef4cd163:
@@ -1225,7 +1225,7 @@ translate portugues episode04_2a4db102:
 translate portugues episode04_9212ecb6:
 
     # yusuke "Boy, do I feel bad."
-    yusuke "Nossa, como me sinto mal."
+    yusuke "Cara, tô me sentindo péssimo."
 
 # game/scripts/episode04.rpy:486
 translate portugues episode04_7c18e2d5:
@@ -1247,13 +1247,13 @@ translate portugues episode04_9315ea36:
     # voice as0136
     # asumi "You're mean. You're too mean, Moe-Moe! Even though your family runs this place, you have no right to take this place away from us!"
     voice as0136
-    asumi "Você é má. Você é má demais, Moe-Moe! Mesmo que sua família administre este lugar, você não tem o direito de tirar este lugar da gente!"
+    asumi "Você é má. Você é má demais, Moe-Moe! Mesmo que sua família administre este lugar, você não tem o direito de tirar esse lugar da gente!"
 
 # game/scripts/episode04.rpy:495
 translate portugues episode04_5a055158:
 
     # yusuke "Wow. You're really a selfish bastard."
-    yusuke "Uau. Você é mesmo um bastardo egoísta."
+    yusuke "Uau. Você é mesmo uma bastarda egoísta."
 
 # game/scripts/episode04.rpy:500
 translate portugues episode04_5be4a985:
@@ -1267,7 +1267,7 @@ translate portugues episode04_5be4a985:
 translate portugues episode04_04828b7e:
 
     # yusuke "I...said nothing, ma'am."
-    yusuke "Eu... não disse nada, senhora."
+    yusuke "Eu... não disse nada, madame."
 
 # game/scripts/episode04.rpy:504
 translate portugues episode04_aff661ca:
@@ -1421,7 +1421,7 @@ translate portugues episode04_43f6838e:
 translate portugues episode04_7f23e360:
 
     # "TAP-TAP. Somebody pats my back."
-    "TOC-TOC. Alguém dá tapinhas nas minhas costas."
+    "TAP TAP. Alguém dá tapinhas nas minhas costas."
 
 # game/scripts/episode04.rpy:575
 translate portugues episode04_345d0be3:
@@ -1455,7 +1455,7 @@ translate portugues episode04_74927370:
     # voice ta0005
     # woman "Clean up this place. You do the cleaning, we lend you this place for free, right?"
     voice ta0005
-    woman "Limpe este lugar. Você faz a limpeza, nós emprestamos este lugar de graça, certo?"
+    woman "Limpe esse lugar. Você faz a limpeza, nós emprestamos esse lugar de graça, certo?"
 
 # game/scripts/episode04.rpy:584
 translate portugues episode04_8acb4fba:
@@ -1469,7 +1469,7 @@ translate portugues episode04_b4a6659e:
     # voice ta0006
     # woman "Asumi told me you'd clean up this place alone."
     voice ta0006
-    woman "Asumi me disse que você limparia este lugar sozinho."
+    woman "Asumi me disse que você limparia esse lugar sozinho."
 
 # game/scripts/episode04.rpy:590
 translate portugues episode04_300b948f:
@@ -1503,7 +1503,7 @@ translate portugues episode04_eff6c464:
     # voice to0040
     # tomoe "YAWN... Okay."
     voice to0040
-    tomoe "BOCEJO... Okay."
+    tomoe "YAWN... Okay."
 
 # game/scripts/episode04.rpy:611
 translate portugues episode04_ec324a55:
@@ -1517,7 +1517,7 @@ translate portugues episode04_ec324a55:
 translate portugues episode04_414713c3:
 
     # "Toshibo sees us off, including the sleepy-eyed Tomoe."
-    "Toshibo se despede de nós, incluindo a Tomoe de olhos sonolentos."
+    "Toshibo se despede de nós, incluindo Tomoe, ainda com os olhos sonolentos."
 
 # game/scripts/episode04.rpy:614
 translate portugues episode04_0f3070b7:
@@ -1575,7 +1575,7 @@ translate portugues episode04_edb13d7b:
     # voice as0144
     # asumi "We're going to have a meeting next Wednesday! We'll talk about how to beat the Trio de Bitches!"
     voice as0144
-    asumi "Nós vamos ter uma reunião na próxima quarta! Vamos falar sobre como derrotar o Trio das Piranhas!"
+    asumi "Nós vamos ter uma reunião na próxima quarta! Vamos falar sobre como derrotar o Trio das Vadias!"
 
 # game/scripts/episode04.rpy:641
 translate portugues episode04_d5693a77_4:
@@ -1595,7 +1595,7 @@ translate portugues episode04_7e185389:
     # voice as0145
     # asumi "You come with us! You're already part of our war potential!"
     voice as0145
-    asumi "Você vem com a gente! Você já é parte do nosso potencial de guerra!"
+    asumi "Você vem com a gente! Você já faz parte do nosso poder de guerra!"
 
 # game/scripts/episode04.rpy:646
 translate portugues episode04_3de17344:
@@ -1621,7 +1621,7 @@ translate portugues episode04_8c36c9ab:
     # voice as0146
     # asumi "Shut up and think about how to defeat those bitches!!"
     voice as0146
-    asumi "Cala a boca e pense em como derrotar aquelas piranhas!!"
+    asumi "Cala a boca e pense em como derrotar aquelas vadias!!"
 
 # game/scripts/episode04.rpy:654
 translate portugues episode04_a59a06a2:
@@ -1633,7 +1633,7 @@ translate portugues strings:
 
     # game/scripts/episode04.rpy:291
     old "Sure, I'll join you."
-    new "Claro, eu entro."
+    new "Claro, eu vou com você."
 
     # game/scripts/episode04.rpy:291
     old "No thanks."
@@ -1641,8 +1641,15 @@ translate portugues strings:
 
     # game/scripts/episode04.rpy:509
     old "Admonish Asumi."
-    new "Admoestar a Asumi."
+    new "Repreender a Asumi."
 
     # game/scripts/episode04.rpy:509
     old "I'd better keep quiet."
-    new "É melhor eu ficar quieto."
+    new "É melhor eu ficar quieto."# TODO: Translation updated at 2025-10-26 23:25
+
+translate portugues strings:
+
+    # game/scripts/episode04.rpy:4
+    old "Episode 4: Emergency Meeting at the Hot Spring"
+    new "Episódio 4: Reunião de Emergência nas Águas Termais"
+
