@@ -20,7 +20,7 @@ translate portugues episode05_c63279dc:
     # voice as0148
     # asumi "That's not my point. You might go home without changing your clothes, right? Like yesterday."
     voice as0148
-    asumi "Não é esse o ponto. Você pode acabar indo para casa sem trocar de roupa, certo? Como ontem."
+    asumi "Não é esse o ponto. Você pode acabar indo pra casa sem trocar de roupa, né? Igual ontem."
 
 # game/scripts/episode05.rpy:17
 translate portugues episode05_731c23c6:
@@ -50,13 +50,13 @@ translate portugues episode05_53bd503b:
 translate portugues episode05_44d63f96:
 
     # "I wish I could take a walk and explore this town alone,"
-    "Eu queria poder dar uma volta e explorar esta cidade sozinho,"
+    "Eu queria poder dar uma volta e explorar essa cidade sozinho,"
 
 # game/scripts/episode05.rpy:22
 translate portugues episode05_215269dd:
 
     # "Without wearing this girls' uniform, that is."
-    "Sem vestir este uniforme de garota, claro."
+    "Sem vestir esse uniforme de garota, claro."
 
 # game/scripts/episode05.rpy:23
 translate portugues episode05_9952b765:
@@ -76,7 +76,7 @@ translate portugues episode05_19a3981f:
     # voice na0001
     # unknown "Hey, you! You, the pretty girl!" (voice_tag='v_namiki')
     voice na0001
-    unknown "Ei, você! Você, a garota bonita!" (voice_tag='v_namiki')
+    unknown "Ei, você aí! A garota bonita!" (voice_tag='v_namiki')
 
 # game/scripts/episode05.rpy:38
 translate portugues episode05_4bd0a087:
@@ -110,7 +110,7 @@ translate portugues episode05_eb86174f:
     # voice na0002
     # girl_na "Have we ever met before? Do you know me?"
     voice na0002
-    girl_na "Nós já nos conhecemos antes? Você me conhece?"
+    girl_na "A gente já se conhece? Você me conhece?"
 
 # game/scripts/episode05.rpy:48
 translate portugues episode05_e25545f9:
@@ -138,7 +138,7 @@ translate portugues episode05_e8247beb:
 translate portugues episode05_3decf13c:
 
     # "Irritated, the ignored Asumi yells at the girl, who's now talking to me in much too familiar of a way."
-    "Irritada, a Asumi, que foi ignorada, grita com a garota, que agora está falando comigo de um jeito muito íntimo."
+    "Irritada por ter sido ignorada, Asumi grita com a garota, que agora fala comigo de um jeito muito íntimo."
 
 # game/scripts/episode05.rpy:63
 translate portugues episode05_ec7ecbef:
@@ -154,7 +154,7 @@ translate portugues episode05_d08f62be:
     # voice na0004
     # girl_na "You're really conceited, huh? But the truth is that this girl is much cuter than you are."
     voice na0004
-    girl_na "Você é muito convencida, hein? Mas a verdade é que esta garota é muito mais fofa que você."
+    girl_na "Você é muito convencida, hein? Mas a verdade é que essa garota é muito mais fofa que você."
 
 # game/scripts/episode05.rpy:73
 translate portugues episode05_3faf376a:
@@ -182,13 +182,13 @@ translate portugues episode05_0a0fc6ab:
     # voice as0153
     # asumi "This girl...this girl is really a b...mguhhh!"
     voice as0153
-    asumi "Esta garota... esta garota é realmente um h... mghhh!"
+    asumi "Essa garota... essa garota é realmente um h... mghhh!"
 
 # game/scripts/episode05.rpy:82
 translate portugues episode05_8a8b9e3d:
 
     # yusuke "OUCH!!"
-    yusuke "AI!!"
+    yusuke "OUCH!!"
 
 # game/scripts/episode05.rpy:83
 translate portugues episode05_585a9de4:
@@ -200,13 +200,13 @@ translate portugues episode05_585a9de4:
 translate portugues episode05_1a6414a9:
 
     # "I hurriedly cover her mouth with my hand, and her white teeth sink into my fingers."
-    "Eu rapidamente cubro a boca dela com a mão, e seus dentes brancos afundam nos meus dedos."
+    "Rapidamente cubro a boca dela com a mão, e seus dentes brancos afundam nos meus dedos."
 
 # game/scripts/episode05.rpy:85
 translate portugues episode05_707e561b:
 
     # "Looking at our stupid act, the girl leaves us with a sullen face."
-    "Olhando para nosso ato estúpido, a garota nos deixa com uma cara emburrada."
+    "Olhando para nosso ato idiota, a garota nos deixa com uma cara emburrada."
 
 # game/scripts/episode05.rpy:89
 translate portugues episode05_878b53b1:
@@ -304,7 +304,7 @@ translate portugues episode05_f6c22930:
 translate portugues episode05_a4bfa93e:
 
     # "Marumu suddenly comes out of nowhere."
-    "Marumu aparece do nada, de repente."
+    "De repente, Marumu aparece do nada."
 
 # game/scripts/episode05.rpy:133
 translate portugues episode05_eb994260:
@@ -334,7 +334,7 @@ translate portugues episode05_02d4774f:
 translate portugues episode05_35486b1a:
 
     # "She takes care of me too much."
-    "Ela cuida de mim demais."
+    "Ela cuida demais de mim."
 
 # game/scripts/episode05.rpy:144
 translate portugues episode05_7a998d5f:
@@ -352,7 +352,7 @@ translate portugues episode05_a9483bd6:
 translate portugues episode05_f8fe7ed6:
 
     # "When I told her that I was transferring schools, she said, 'I'll tell them not to mess with you!'"
-    "Quando eu disse a ela que estava transferindo de escola, ela disse: 'Vou dizer a eles para não mexerem com você!'"
+    "Quando eu disse a ela que estava sendo transferido de escola, ela disse: 'Vou dizer a eles para não mexerem com você!'"
 
 # game/scripts/episode05.rpy:147
 translate portugues episode05_fd73f5b8:
@@ -408,7 +408,7 @@ translate portugues episode05_014d1846:
     # voice as0161
     # asumi "You're so mean... Are you trying to shun Tomoe out from us? That cute, kind Tomoe...oh, poor, poor girl."
     voice as0161
-    asumi "Você é tão malvado... Está tentando excluir a Tomoe de nós? Aquela Tomoe fofa e gentil... oh, coitadinha, coitadinha."
+    asumi "Você é tão malvado... Está tentando excluir a Tomoe da gente? Aquela Tomoe fofa e gentil... oh, coitadinha, coitadinha."
 
 # game/scripts/episode05.rpy:181
 translate portugues episode05_73d24de1:
@@ -436,7 +436,7 @@ translate portugues episode05_42a8e19d:
 translate portugues episode05_82e509c6:
 
     # "Again, I'm forced to tell them about Namiki from the start."
-    "De novo, sou forçado a contar a elas sobre a Namiki desde o começo."
+    "De novo, sou forçado a contar a elas sobre a Namiki desde o início."
 
 # game/scripts/episode05.rpy:196
 translate portugues episode05_a818bbff_1:
@@ -454,7 +454,7 @@ translate portugues episode05_02d4774f_1:
 translate portugues episode05_1d8f8a86:
 
     # "She takes care of me too much... I omit the rest."
-    "Ela cuida de mim demais... Eu omito o resto."
+    "Ela cuida demais de mim... Eu omito o resto."
 
 # game/scripts/episode05.rpy:203
 translate portugues episode05_6517969e:
@@ -538,7 +538,7 @@ translate portugues episode05_3eebbe51:
     # voice as0165
     # asumi "No matter what happens, we'll keep hiding Parasite One from that nearsighted moron! Let's become a team and help him!"
     voice as0165
-    asumi "Aconteça o que acontecer, vamos continuar escondendo o Parasita Um daquela idiota míope! Vamos virar um time e ajudá-lo!"
+    asumi "Aconteça o que acontecer, vamos continuar escondendo o Parasita Um daquela idiota míope! Vamos virar um time e ajudar ele!"
 
 # game/scripts/episode05.rpy:239
 translate portugues episode05_1fb0aed6:
@@ -650,7 +650,7 @@ translate portugues episode05_cd5ee841:
     # voice as0171
     # asumi "It shouldn't be for more than a couple of days; she won't stay in this town that long! We can do it!!"
     voice as0171
-    asumi "Não deve ser por mais do que alguns dias; ela não vai ficar nesta cidade por tanto tempo! Nós conseguimos!!"
+    asumi "Não deve durar mais do que alguns dias; ela não vai ficar tanto tempo nesta cidade! A gente consegue!"
 
 # game/scripts/episode05.rpy:290
 translate portugues episode05_b165faa1:
@@ -744,7 +744,7 @@ translate portugues episode05_af11a891:
 translate portugues episode05_5f42cc61:
 
     # voice hs0005
-    # kaoru "Look at that tight formation. Are they scared of us?"
+    # kaoru "Olha essa formação apertada. Será que eles estão com medo da gente?"
     voice hs0005
     kaoru "Olhem essa formação apertada. Elas estão com medo de nós?"
 
@@ -848,7 +848,7 @@ translate portugues episode05_d5693a77_1:
 translate portugues episode05_fbbf3c85:
 
     # "Nobody knows Marumu is doing it. We finally arrive at school without any trouble except for a few curious passersby."
-    "Ninguém sabe que a Marumu está fazendo isso. Finalmente chegamos à escola sem problemas, exceto por alguns transeuntes curiosos."
+    "Ninguém sabe que a Marumu está por trás disso. Finalmente chegamos à escola sem problemas, exceto por alguns transeuntes curiosos."
 
 # game/scripts/episode05.rpy:380
 translate portugues episode05_842541f2:
@@ -924,7 +924,7 @@ translate portugues episode05_7c75c40c:
 translate portugues episode05_739a6eba:
 
     # "Three shadows are observing us; the would-be sister and brother."
-    "Três sombras estão nos observando; a suposta irmã e o irmão."
+    "Três sombras estão nos observando; os supostos irmão e irmã."
 
 # game/scripts/episode05.rpy:409
 translate portugues episode05_2ca65e5b:
@@ -1018,7 +1018,7 @@ translate portugues episode05_8dc81258:
 translate portugues episode05_a3bf8e92:
 
     # yusuke "Ouch."
-    yusuke "Ai."
+    yusuke "Ouch."
 
 # game/scripts/episode05.rpy:438
 translate portugues episode05_85b000e0:
@@ -1078,7 +1078,7 @@ translate portugues episode05_c8ecd1a6:
     # voice na0015
     # namiki "Yeah, you must know you're stupid. Okay, I'll see you later in your room."
     voice na0015
-    namiki "É, você deve saber que é burro. Ok, te vejo depois no seu quarto."
+    namiki "É, você devia saber que é idiota. Ok, te vejo depois no seu quarto."
 
 # game/scripts/episode05.rpy:462
 translate portugues episode05_8a660a5a:
@@ -1324,7 +1324,7 @@ translate portugues episode05_bc1979a5:
     # voice as0180
     # asumi "Let's rock 'n' roll!"
     voice as0180
-    asumi "Vamos rock and roll!"
+    asumi "Bora detonar!"
 
 # game/scripts/episode05.rpy:545
 translate portugues episode05_8166ec8a:
@@ -1504,7 +1504,7 @@ translate portugues episode05_dbc76083:
     # voice na0025
     # namiki "I'll go check the train station now. DASH!"
     voice na0025
-    namiki "Vou verificar a estação de trem agora. CORRE!"
+    namiki "Vou conferir a estação de trem agora. RÁPIDO!"
 
 # game/scripts/episode05.rpy:666
 translate portugues episode05_3a23aba3:
@@ -1524,7 +1524,7 @@ translate portugues episode05_a3cb7002:
 translate portugues episode05_1548e100:
 
     # yusuke "Phew-phew. I came a long way to avoid the regular commuting route. Namiki will never find me here."
-    yusuke "Ufa. Eu dei uma volta enorme para evitar a rota normal. Namiki nunca vai me encontrar aqui."
+    yusuke "Ufa… Eu dei uma boa volta para evitar o caminho normal. A Namiki nunca vai me encontrar aqui."
 
 # game/scripts/episode05.rpy:681
 translate portugues episode05_87ba2fe7:
@@ -1776,7 +1776,7 @@ translate portugues episode05_731c23c6_1:
 translate portugues episode05_c4be04f1:
 
     # "Everything has failed."
-    "Tudo falhou."
+    "Deu tudo errado."
 
 # game/scripts/episode05.rpy:776
 translate portugues episode05_36263b63:
@@ -1916,7 +1916,7 @@ translate portugues episode05_f17a2f81:
     # voice na0040
     # namiki "Your dormitory prohibits males, doesn't it? It'll be a big problem if you bring a boy inside, am I correct?"
     voice na0040
-    namiki "Seu dormitório proíbe homens, não é? Será um grande problema se você trouxer um menino para dentro, estou certa?"
+    namiki "Seu dormitório proíbe homens, não é? Será um grande problema se você trouxer um garoto para dentro, estou certa?"
 
 # game/scripts/episode05.rpy:839
 translate portugues episode05_8a7bfd0f:
@@ -1946,7 +1946,7 @@ translate portugues episode05_cd395e7f:
 translate portugues episode05_cecc616a:
 
     # "With a bit of coercion, we head to Tomoe's house."
-    "Com um pouco de coerção, vamos para a casa de Tomoe."
+    "Com um pouco de insistência, vamos para a casa de Tomoe."
 
 # game/scripts/episode05.rpy:855
 translate portugues episode05_b5db78ac:
@@ -2016,7 +2016,7 @@ translate portugues episode05_2842ae19:
 translate portugues episode05_50a2caee:
 
     # "I'm speechless as I try to make my lower-half behave."
-    "Estou sem palavras enquanto tento controlar minha parte inferior."
+    "Estou sem palavras enquanto tento controlar minha parte de baixo."
 
 # game/scripts/episode05.rpy:882
 translate portugues episode05_11f9d3cf:
@@ -2106,7 +2106,7 @@ translate portugues episode05_fb6c8a11:
     # voice na0045
     # namiki "Hey, don't worry about Yusuke, alright? I don't consider him a boy."
     voice na0045
-    namiki "Ei, não se preocupe com o Yusuke, certo? Não o considero um menino."
+    namiki "Ei, não se preocupe com o Yusuke, certo? Não o considero um garoto."
 
 # game/scripts/episode05.rpy:919
 translate portugues episode05_695987c3:
@@ -2228,7 +2228,7 @@ translate portugues episode05_101b1868:
     # voice na0050
     # namiki "Whew. It was great! I'm such a hot spring fanatic, and I must admit that this place is great. It's moderately hot, and I like that."
     voice na0050
-    namiki "Ufa. Foi ótimo! Sou uma fanática por fontes termais e devo admitir que este lugar é ótimo. É moderadamente quente, e eu gosto disso."
+    namiki "Ufa. Foi ótimo! Sou uma fanática por fontes termais e devo admitir que esse lugar é ótimo. É moderadamente quente, e eu gosto disso."
 
 # game/scripts/episode05.rpy:989
 translate portugues episode05_b2e07321:
@@ -2358,25 +2358,25 @@ translate portugues episode05_4d6e6eff:
 translate portugues episode05_dfe35c0f:
 
     # "She builds up a tense relationship between Asumi and herself."
-    "Ela constrói um relacionamento tenso entre Asumi e ela mesma."
+    "Ela cria uma relação tensa entre ela e a Asumi."
 
 # game/scripts/episode05.rpy:1057
 translate portugues episode05_14193551:
 
     # "She also builds up (forcibly) an intimate relationship between Tomoe and herself."
-    "Ela também constrói (forçosamente) um relacionamento íntimo entre Tomoe e ela mesma."
+    "Ela também constrói (forçosamente) um relacionamento íntimo entre ela e a Tomoe."
 
 # game/scripts/episode05.rpy:1058
 translate portugues episode05_35841f4a:
 
     # "At this moment, I have no idea the hurricane will return to do more damage."
-    "Neste momento, não tenho ideia de que o furacão voltará para causar mais estragos."
+    "Nesse momento, não tenho ideia de que o furacão voltará para causar mais estragos."
 
 # game/scripts/episode05.rpy:1059
 translate portugues episode05_8bf06c31:
 
     # "I realize it later on..."
-    "Percebo isso mais tarde..."
+    "Eu só percebo isso mais tarde..."
 
 # game/scripts/episode05.rpy:1061
 translate portugues episode05_f4fe5672:
@@ -2394,7 +2394,7 @@ translate portugues strings:
 
     # game/scripts/episode05.rpy:692
     old "Run away!"
-    new "Fuja!"
+    new "Fugir!"
 
     # game/scripts/episode05.rpy:948
     old "Asumi is the best."
@@ -2410,4 +2410,11 @@ translate portugues strings:
 
     # game/scripts/episode05.rpy:948
     old "Namiki is the best."
-    new "Namiki é a melhor."
+    new "Namiki é a melhor."# TODO: Translation updated at 2025-10-27 11:46
+
+translate portugues strings:
+
+    # game/scripts/episode05.rpy:4
+    old "Episode 5: My Savage Sister!"
+    new "Episódio 5: Minha Irmã Selvagem!"
+
