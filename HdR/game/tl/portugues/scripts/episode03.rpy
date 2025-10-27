@@ -4,7 +4,7 @@
 translate portugues episode03_a9fc7982:
 
     # "RATTLE-RATTLE..."
-    "CHOCALHAR-CHOCALHAR..."
+    "CHOCALHA-CHOCALHAR..."
 
 # game/scripts/episode03.rpy:12
 translate portugues episode03_b0da9779:
@@ -1704,7 +1704,7 @@ translate portugues episode03_c3e25d30:
 translate portugues episode03_67c4e030:
 
     # "Oh my. This is unfair. I feel uneasy as I see them off."
-    "Nossa. Isso é injusto. Sinto-me inquieto enquanto as vejo indo embora."
+    "Nossa. Isso é injusto. Me sinto inquieto enquanto as vejo indo embora."
 
 # game/scripts/episode03.rpy:695
 translate portugues episode03_b2ff34fc:
@@ -1890,13 +1890,13 @@ translate portugues episode03_08d9007b:
 translate portugues episode03_4e721d90:
 
     # "It's a big fat raccoon...Toshibo was fighting against this raccoon."
-    "É um guaxinim grande e gordo... Toshibo estava lutando contra este guaxinim."
+    "É um guaxinim grande e gordo... Toshibo estava lutando contra esse guaxinim."
 
 # game/scripts/episode03.rpy:752
 translate portugues episode03_c1d6f004:
 
     # "Toshibo vanished without saying anything because he wanted to catch this bad-ass raccoon."
-    "Toshibo desapareceu sem dizer nada porque queria pegar este guaxinim durão."
+    "Toshibo desapareceu sem dizer nada porque queria pegar esse guaxinim durão."
 
 # game/scripts/episode03.rpy:753
 translate portugues episode03_6c22bbf8:
@@ -1908,7 +1908,7 @@ translate portugues episode03_6c22bbf8:
 translate portugues episode03_91fb69cd:
 
     # "My, my... I find tons of panties and remains of food in this guy's nest."
-    "Nossa, nossa... Encontro um monte de calcinhas e restos de comida no ninho deste cara."
+    "Nossa, nossa... Encontro um monte de calcinhas e restos de comida no ninho desse cara."
 
 # game/scripts/episode03.rpy:755
 translate portugues episode03_f1933f3e:
@@ -2196,7 +2196,7 @@ translate portugues episode03_54720a59:
 translate portugues episode03_d504e716:
 
     # "The shadow jumps into our room from the balcony and it is... Toshibo!"
-    "A sombra pula em nosso quarto da varanda e é... Toshibo!"
+    "A sombra salta da varanda para o nosso quarto e é... Toshibo!"
 
 # game/scripts/episode03.rpy:874
 translate portugues episode03_3f9d1758:
@@ -2331,4 +2331,12 @@ translate portugues episode03_2c57ffef:
 
     # "Still, I don't know what it is. I must be careful...oh?"
     "Ainda assim, não sei o que é. Preciso ter cuidado... huh"
+
+# TODO: Translation updated at 2025-10-26 22:21
+
+translate portugues strings:
+
+    # game/scripts/episode03.rpy:4
+    old "Episode 3: The Name is Toshibo"
+    new "Episódio 3: O Nome é Toshibo"
 
