@@ -14,6 +14,6 @@
 | **Marumu Ogamayama** | 🔴 Não iniciada | 0% |
 | **Namiki Honjo** | 🔴 Não iniciada | 0% |
 | **Yoshiko Honjo** | 🔴 Não iniciada | 0% |
-| **Rota Perfeita** | ⭐ Planejada | 0% |
+| **Rota Perfeita** | 🔴 Não iniciada | 0% |
 
 ---
