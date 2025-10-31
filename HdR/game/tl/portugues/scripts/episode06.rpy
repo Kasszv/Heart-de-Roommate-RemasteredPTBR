@@ -1204,25 +1204,25 @@ translate portugues episode06_758c06f2:
 translate portugues episode06_47d34284:
 
     # "But I do know..."
-    ""
+    "Mas eu sei..."
 
 # game/scripts/episode06.rpy:455
 translate portugues episode06_cc1e2b21:
 
     # "...how important that accessory is to Asumi."
-    ""
+    "...o quanto esse acessório é importante para a Asumi."
 
 # game/scripts/episode06.rpy:456
 translate portugues episode06_fb9dd618:
 
     # "It strikes my heart."
-    ""
+    "Isso me toca o coração."
 
 # game/scripts/episode06.rpy:457
 translate portugues episode06_c09c12ac:
 
     # "She needs it. It must be very important to her!"
-    ""
+    "Ela precisa dele. Deve ser muito importante para ela!"
 
 # game/scripts/episode06.rpy:463
 translate portugues episode06_dd3a43c7:
@@ -1230,13 +1230,13 @@ translate portugues episode06_dd3a43c7:
     # voice to0075
     # tomoe "Yusuke, aren't you going home yet?"
     voice to0075
-    tomoe ""
+    tomoe "Yusuke, você ainda não vai para casa?"
 
 # game/scripts/episode06.rpy:465
 translate portugues episode06_fbc26253:
 
     # yusuke "No, I have something to take care of. You go home without me."
-    yusuke ""
+    yusuke "Não, tenho algo para resolver. Vá para casa sem mim."
 
 # game/scripts/episode06.rpy:467
 translate portugues episode06_0efd84eb:
@@ -1244,205 +1244,205 @@ translate portugues episode06_0efd84eb:
     # voice to0076
     # tomoe "Okay. I'll see you later."
     voice to0076
-    tomoe ""
+    tomoe "Ok. Te vejo depois."
 
 # game/scripts/episode06.rpy:472
 translate portugues episode06_5819d594:
 
     # "I lay down flat on the floor."
-    ""
+    "Deitei-me no chão."
 
 # game/scripts/episode06.rpy:473
 translate portugues episode06_be31cd70:
 
     # "I was serious yesterday."
-    ""
+    "Eu estava falando sério ontem."
 
 # game/scripts/episode06.rpy:474
 translate portugues episode06_a2237f2c:
 
     # "But I guess I wasn't serious enough."
-    ""
+    "Mas acho que não estava sério o suficiente."
 
 # game/scripts/episode06.rpy:475
 translate portugues episode06_7b9e5a99:
 
     # "I just didn't know how desperate Asumi was."
-    ""
+    "Eu só não sabia o quão desesperada a Asumi estava."
 
 # game/scripts/episode06.rpy:476
 translate portugues episode06_254ec796:
 
     # "I've never seen her look so sad."
-    ""
+    "Nunca a vi com uma cara tão triste."
 
 # game/scripts/episode06.rpy:477
 translate portugues episode06_7968389a:
 
     # "Of course, I still hate her sometimes."
-    ""
+    "Claro, ainda odeio ela às vezes."
 
 # game/scripts/episode06.rpy:478
 translate portugues episode06_41168332:
 
     # "Today, she looks so fragile and weak."
-    ""
+    "Hoje, ela parece tão frágil e vulnerável."
 
 # game/scripts/episode06.rpy:479
 translate portugues episode06_61ba4ce9:
 
     # "That's not the Asumi I know."
-    ""
+    "Essa não é a Asumi que eu conheço."
 
 # game/scripts/episode06.rpy:480
 translate portugues episode06_a181732b:
 
     # "Again, the accessory must mean a lot to her."
-    ""
+    "Novamente, o acessório deve significar muito para ela."
 
 # game/scripts/episode06.rpy:481
 translate portugues episode06_4286dcd4:
 
     # "That's why I must find it!!"
-    ""
+    "É por isso que devo encontrá-lo!!"
 
 # game/scripts/episode06.rpy:485
 translate portugues episode06_3fba18af:
 
     # "I haven't covered everything."
-    ""
+    "Não procurei em todo lugar."
 
 # game/scripts/episode06.rpy:486
 translate portugues episode06_b8fbb0f0:
 
     # "I need to look in other places as well."
-    ""
+    "Preciso procurar em outros lugares também."
 
 # game/scripts/episode06.rpy:487
 translate portugues episode06_48a858b7:
 
     # "Asumi always swings her school bag while she walks."
-    ""
+    "Asumi sempre balança a mochila enquanto anda."
 
 # game/scripts/episode06.rpy:488
 translate portugues episode06_47a24b90:
 
     # "If she lost it somewhere around here, she wouldn't notice it."
-    ""
+    "Se ela o perdeu em algum lugar por aqui, não perceberia."
 
 # game/scripts/episode06.rpy:489
 translate portugues episode06_f32c2c0c:
 
     # "Those bushes on the side of the road."
-    ""
+    "Aquelas moitas na beira da estrada."
 
 # game/scripts/episode06.rpy:490
 translate portugues episode06_0c202ef9:
 
     # "I step into the bushes."
-    ""
+    "Entro nas moitas."
 
 # game/scripts/episode06.rpy:491
 translate portugues episode06_164ea1a0:
 
     # "This will take an eternity."
-    ""
+    "Isso vai levar uma eternidade."
 
 # game/scripts/episode06.rpy:492
 translate portugues episode06_850b953a:
 
     # "The sun is setting. It's getting dark."
-    ""
+    "O sol está se pondo. Está escurecendo."
 
 # game/scripts/episode06.rpy:493
 translate portugues episode06_8f16b67c:
 
     # "Still, I start pushing the bushes away and looking inside."
-    ""
+    "Ainda assim, começo a afastar os arbustos e a olhar dentro deles."
 
 # game/scripts/episode06.rpy:494
 translate portugues episode06_5b08504e:
 
     # "I remember Asumi's sad profile."
-    ""
+    "Lembro-me do perfil triste da Asumi."
 
 # game/scripts/episode06.rpy:499
 translate portugues episode06_0b17eb07:
 
     # yusuke "Whew, whew...man, I'm dying."
-    yusuke ""
+    yusuke "Ufa, ufa... cara, estou morrendo."
 
 # game/scripts/episode06.rpy:500
 translate portugues episode06_0be121d6:
 
     # "I crouch down in the bushes and look up at the night sky."
-    ""
+    "Agacho-me nos arbustos e olho para o céu noturno."
 
 # game/scripts/episode06.rpy:501
 translate portugues episode06_ee9d59d1:
 
     # "I see a beautiful sea of stars."
-    ""
+    "Vejo um lindo mar de estrelas."
 
 # game/scripts/episode06.rpy:502
 translate portugues episode06_15a5da58:
 
     # "It's late and dark."
-    ""
+    "Está tarde e escuro."
 
 # game/scripts/episode06.rpy:509
 translate portugues episode06_9197363d:
 
     # yusuke "It's really dark outside. I can't see a thing."
-    yusuke ""
+    yusuke "Está muito escuro lá fora. Não consigo ver nada."
 
 # game/scripts/episode06.rpy:510
 translate portugues episode06_59bf8185:
 
     # "I tell myself as I lift up my leg, which is now covered in mud."
-    ""
+    "Digo a mim mesmo, levantando a perna, que agora está coberta de lama."
 
 # game/scripts/episode06.rpy:511
 translate portugues episode06_f83af73f:
 
     # "Then, all of a sudden, a sense of terror runs through my spine."
-    ""
+    "Então, de repente, uma sensação de terror percorre minha espinha."
 
 # game/scripts/episode06.rpy:512
 translate portugues episode06_a43f869a:
 
     # "Something unknown is closing in. It's flying very low."
-    ""
+    "Algo desconhecido está se aproximando. Está voando muito baixo."
 
 # game/scripts/episode06.rpy:517
 translate portugues episode06_ed3f8211:
 
     # "RUSTLE-RUSTLE..."
-    ""
+    "FRU-FRU-FRU..."
 
 # game/scripts/episode06.rpy:518
 translate portugues episode06_ba59ee17:
 
     # yusuke "What...what is it!?"
-    yusuke ""
+    yusuke "O que... o que é isso!?"
 
 # game/scripts/episode06.rpy:519
 translate portugues episode06_d0845102:
 
     # "I shiver."
-    ""
+    "Eu tremo."
 
 # game/scripts/episode06.rpy:520
 translate portugues episode06_922430af:
 
     # "In the country side like this place,"
-    ""
+    "No interior, como este lugar,"
 
 # game/scripts/episode06.rpy:521
 translate portugues episode06_91f1a490:
 
     # yusuke "It could be a huge, poisonous snake or something...!"
-    yusuke ""
+    yusuke "Pode ser uma cobra enorme e venenosa ou algo assim...!"
 
 # game/scripts/episode06.rpy:526
 translate portugues episode06_fc9cdb35:
@@ -1450,31 +1450,31 @@ translate portugues episode06_fc9cdb35:
     # voice ma0045
     # marumu "...Bah."
     voice ma0045
-    marumu ""
+    marumu "...Bah."
 
 # game/scripts/episode06.rpy:528
 translate portugues episode06_c6636cbc:
 
     # yusuke "Hyuh... EEEEEEK!!"
-    yusuke ""
+    yusuke "Hium... AIIIIII!!"
 
 # game/scripts/episode06.rpy:529
 translate portugues episode06_e7a29cf9:
 
     # "The shadow of an animal jumps out of the bushes."
-    ""
+    "A sombra de um animal pula para fora dos arbustos."
 
 # game/scripts/episode06.rpy:530
 translate portugues episode06_5b11f262:
 
     # "It's actually...a small human."
-    ""
+    "Na verdade, é... um humano pequeno."
 
 # game/scripts/episode06.rpy:534
 translate portugues episode06_a258f455:
 
     # yusuke "Is that...Marumu?"
-    yusuke ""
+    yusuke "É a... Marumu?"
 
 # game/scripts/episode06.rpy:538
 translate portugues episode06_a9c762a6:
@@ -1482,91 +1482,91 @@ translate portugues episode06_a9c762a6:
     # voice ma0047
     # marumu "...Marumu, this side. Number One, that side."
     voice ma0047
-    marumu ""
+    marumu "...Marumu, deste lado. Número Um, daquele lado."
 
 # game/scripts/episode06.rpy:540
 translate portugues episode06_0544da36:
 
     # yusuke "You're looking for it too."
-    yusuke ""
+    yusuke "Você está procurando por ele também."
 
 # game/scripts/episode06.rpy:544
 translate portugues episode06_118ee78c:
 
     # "The presence I felt was Marumu."
-    ""
+    "A presença que senti era da Marumu."
 
 # game/scripts/episode06.rpy:545
 translate portugues episode06_1e7ee180:
 
     # "Yes, Marumu has been searching for Asumi's accessory too. Now, I can't give up until I find it."
-    ""
+    "Sim, Marumu também estava procurando pelo acessório da Asumi. Agora, não posso desistir até encontrá-lo."
 
 # game/scripts/episode06.rpy:546
 translate portugues episode06_f2957b63:
 
     # "I'll be so uncool if I leave here without any results."
-    ""
+    "Vou ser tão fracote se sair daqui sem resultados."
 
 # game/scripts/episode06.rpy:547
 translate portugues episode06_559bb74d:
 
     # "I fire myself up and force my way into the bushes again."
-    ""
+    "Me animo e me enfio nos arbustos novamente."
 
 # game/scripts/episode06.rpy:551
 translate portugues episode06_4d2a0a66:
 
     # yusuke "Should I stop now and go home? No...a little more!"
-    yusuke ""
+    yusuke "Devo parar agora e ir para casa? Não... mais um pouco!"
 
 # game/scripts/episode06.rpy:552
 translate portugues episode06_929b8296:
 
     # "I should move to the other side of the road. I walk across the pavement and step into the bushes. Then..."
-    ""
+    "Devo mudar para o outro lado da estrada. Atravesso a calçada e entro nos arbustos. Então..."
 
 # game/scripts/episode06.rpy:557
 translate portugues episode06_ed3f8211_1:
 
     # "RUSTLE-RUSTLE..."
-    ""
+    "FRU-FRU-FRU..."
 
 # game/scripts/episode06.rpy:558
 translate portugues episode06_ba59ee17_1:
 
     # yusuke "What...what is it!?"
-    yusuke ""
+    yusuke "O que... o que é isso!?"
 
 # game/scripts/episode06.rpy:559
 translate portugues episode06_ebb8bbcf:
 
     # "I hear something crawling on the dark ground."
-    ""
+    "Ouço algo rastejando no chão escuro."
 
 # game/scripts/episode06.rpy:560
 translate portugues episode06_00052966:
 
     # "I can't see it, but it sounds very quick."
-    ""
+    "Não consigo ver, mas parece muito rápido."
 
 # game/scripts/episode06.rpy:561
 translate portugues episode06_fabfa32c:
 
     # "I shudder in terror."
-    ""
+    "Estremeço de terror."
 
 # game/scripts/episode06.rpy:562
 translate portugues episode06_10d072b1:
 
     # "In the middle of nowhere like this."
-    ""
+    "No meio do nada, assim."
 
 # game/scripts/episode06.rpy:563
 translate portugues episode06_f9812e01:
 
     # yusuke "Is this...Tsuchinoko, the legendary snake!?"
-    yusuke ""
+    yusuke "Isso é... Tsuchinoko, a cobra lendária!?"
 
 # game/scripts/episode06.rpy:568
 translate portugues episode06_fc9cdb35_1:
@@ -1574,13 +1574,13 @@ translate portugues episode06_fc9cdb35_1:
     # voice ma0045
     # marumu "...Bah."
     voice ma0045
-    marumu ""
+    marumu "...Bah."
 
 # game/scripts/episode06.rpy:570
 translate portugues episode06_eaaa623b:
 
     # yusuke "EEEEEK! Tsuchinoko...speaks!!"
-    yusuke ""
+    yusuke "AIIII! Tsuchinoko... fala!!"
 
 # game/scripts/episode06.rpy:574
 translate portugues episode06_b75414c4:
@@ -1588,31 +1588,31 @@ translate portugues episode06_b75414c4:
     # voice ma0046
     # marumu "...Where is the Tsuchinoko?"
     voice ma0046
-    marumu ""
+    marumu "...Onde está o Tsuchinoko?"
 
 # game/scripts/episode06.rpy:576
 translate portugues episode06_808ba442:
 
     # yusuke "...Huh?"
-    yusuke ""
+    yusuke "...Hã?"
 
 # game/scripts/episode06.rpy:577
 translate portugues episode06_e7a29cf9_1:
 
     # "The shadow of an animal jumps out of the bushes."
-    ""
+    "A sombra de um animal pula para fora dos arbustos."
 
 # game/scripts/episode06.rpy:578
 translate portugues episode06_9107aeb9:
 
     # "Actually, it's a small human."
-    ""
+    "Na verdade, é um humano pequeno."
 
 # game/scripts/episode06.rpy:582
 translate portugues episode06_6e8007be:
 
     # yusuke "Marumu? Is that you!?"
-    yusuke ""
+    yusuke "Marumu? É você!?"
 
 # game/scripts/episode06.rpy:586
 translate portugues episode06_a9c762a6_1:
@@ -1620,67 +1620,67 @@ translate portugues episode06_a9c762a6_1:
     # voice ma0047
     # marumu "...Marumu, this side. Number One, that side."
     voice ma0047
-    marumu ""
+    marumu "...Marumu, deste lado. Número Um, daquele lado."
 
 # game/scripts/episode06.rpy:588
 translate portugues episode06_2265af0f:
 
     # yusuke "...Okay."
-    yusuke ""
+    yusuke "...Ok."
 
 # game/scripts/episode06.rpy:592
 translate portugues episode06_03b592ce:
 
     # "Marumu dives into the bushes again."
-    ""
+    "Marumu mergulha nos arbustos novamente."
 
 # game/scripts/episode06.rpy:593
 translate portugues episode06_cd71567e:
 
     # "Marumu has been helping me look for the accessory."
-    ""
+    "Marumu está me ajudando a procurar pelo acessório."
 
 # game/scripts/episode06.rpy:594
 translate portugues episode06_bacb57a5:
 
     # "That's right. I didn't see her when Tomoe left school."
-    ""
+    "Isso mesmo. Não a vi quando a Tomoe saiu da escola."
 
 # game/scripts/episode06.rpy:595
 translate portugues episode06_9fc9faa3:
 
     # yusuke "Still...she doesn't need to call me by a number, you know. Sob-sob."
-    yusuke ""
+    yusuke "Ainda assim... ela não precisa me chamar por um número, sabe. Snif-snif."
 
 # game/scripts/episode06.rpy:601
 translate portugues episode06_ac04fff5:
 
     # "I'm covered with mud completely."
-    ""
+    "Estou completamente coberto de lama."
 
 # game/scripts/episode06.rpy:602
 translate portugues episode06_b04d2262:
 
     # "And I'm tired."
-    ""
+    "E estou cansado."
 
 # game/scripts/episode06.rpy:603
 translate portugues episode06_98df58ea:
 
     # "But it doesn't matter. What matters is that I can't find the accessory."
-    ""
+    "Mas isso não importa. O que importa é que não consigo encontrar o acessório."
 
 # game/scripts/episode06.rpy:604
 translate portugues episode06_3686bdd7:
 
     # "I don't want to see Asumi's sad face again."
-    ""
+    "Não quero ver a cara triste da Asumi de novo."
 
 # game/scripts/episode06.rpy:608
 translate portugues episode06_bd58cb2a:
 
     # yusuke "...I'm back."
-    yusuke ""
+    yusuke "...Estou de volta."
 
 # game/scripts/episode06.rpy:612
 translate portugues episode06_0d5c903a:
@@ -1688,13 +1688,13 @@ translate portugues episode06_0d5c903a:
     # voice to0077
     # tomoe "Welcome back, Yusuke...what happened to you!?"
     voice to0077
-    tomoe ""
+    tomoe "Bem-vindo de volta, Yusuke... o que aconteceu com você!?"
 
 # game/scripts/episode06.rpy:614
 translate portugues episode06_81714810:
 
     # yusuke "I got stuck in a puddle."
-    yusuke ""
+    yusuke "Fiquei preso numa poça."
 
 # game/scripts/episode06.rpy:616
 translate portugues episode06_786f6fd4:
@@ -1702,7 +1702,7 @@ translate portugues episode06_786f6fd4:
     # voice to0078
     # tomoe "Marumu told me the same thing. She's taking a bath right now."
     voice to0078
-    tomoe ""
+    tomoe "Marumu me disse a mesma coisa. Ela está tomando banho agora."
 
 # game/scripts/episode06.rpy:621
 translate portugues episode06_8860985f:
@@ -1710,37 +1710,37 @@ translate portugues episode06_8860985f:
     # voice ma0048
     # marumu "...Welcome back, Number One."
     voice ma0048
-    marumu ""
+    marumu "...Bem-vindo de volta, Número Um."
 
 # game/scripts/episode06.rpy:623
 translate portugues episode06_624377bc:
 
     # yusuke "Hey, there you are."
-    yusuke ""
+    yusuke "Ei, aí está você."
 
 # game/scripts/episode06.rpy:624
 translate portugues episode06_2063cc2f:
 
     # "I see that dinner is already on the table."
-    ""
+    "Vejo que o jantar já está na mesa."
 
 # game/scripts/episode06.rpy:628
 translate portugues episode06_1b511d69:
 
     # "Tomoe is in charge of dinner."
-    ""
+    "Tomoe está responsável pelo jantar."
 
 # game/scripts/episode06.rpy:629
 translate portugues episode06_4312351c:
 
     # "However, I see the menu is quite unbalanced tonight."
-    ""
+    "No entanto, vejo que o cardápio está bastante desbalanceado esta noite."
 
 # game/scripts/episode06.rpy:630
 translate portugues episode06_3232c686:
 
     # yusuke "These are Asumi's favorites."
-    yusuke ""
+    yusuke "Estes são os favoritos da Asumi."
 
 # game/scripts/episode06.rpy:634
 translate portugues episode06_6e2fd869:
@@ -1748,31 +1748,31 @@ translate portugues episode06_6e2fd869:
     # voice to0079
     # tomoe "That's right. She's pretty depressed, so I want to cheer her up."
     voice to0079
-    tomoe ""
+    tomoe "Isso mesmo. Ela está bem deprimida, então quero animá-la."
 
 # game/scripts/episode06.rpy:636
 translate portugues episode06_8a53a54c:
 
     # "Tomoe knows it."
-    ""
+    "Tomoe sabe."
 
 # game/scripts/episode06.rpy:637
 translate portugues episode06_407f8ce5:
 
     # "Everybody knows it."
-    ""
+    "Todo mundo sabe."
 
 # game/scripts/episode06.rpy:638
 translate portugues episode06_210353ce:
 
     # "They all worry about Asumi."
-    ""
+    "Todos se preocupam com a Asumi."
 
 # game/scripts/episode06.rpy:639
 translate portugues episode06_7225c808:
 
     # "I'm happy to know that. I'm very happy."
-    ""
+    "Fico feliz em saber disso. Estou muito feliz."
 
 # game/scripts/episode06.rpy:643
 translate portugues episode06_93eec031:
@@ -1780,7 +1780,7 @@ translate portugues episode06_93eec031:
     # voice to0080
     # tomoe "Hey, Marumu. Could you please call Asumi and tell her that dinner's ready?"
     voice to0080
-    tomoe ""
+    tomoe "Ei, Marumu. Pode chamar a Asumi e dizer que o jantar está pronto?"
 
 # game/scripts/episode06.rpy:648
 translate portugues episode06_01d72e74:
@@ -1788,19 +1788,19 @@ translate portugues episode06_01d72e74:
     # voice ma0049
     # marumu "...She's coming!"
     voice ma0049
-    marumu ""
+    marumu "...Ela já vem!"
 
 # game/scripts/episode06.rpy:655
 translate portugues episode06_b6b4831d:
 
     # "FLASH!! Marumu's round hair ornaments shine (no meaning at all)."
-    ""
+    "FLASH!! Os enfeites de cabelo redondos da Marumu brilham (sem significado algum)."
 
 # game/scripts/episode06.rpy:656
 translate portugues episode06_f9aa5c90:
 
     # "Then, the door explosively opens, and Asumi jumps out of her room."
-    ""
+    "Então, a porta se abre de forma explosiva, e Asumi pula para fora de seu quarto."
 
 # game/scripts/episode06.rpy:662
 translate portugues episode06_00f29793:
@@ -1808,7 +1808,7 @@ translate portugues episode06_00f29793:
     # voice as0203
     # asumi "I found it. I found it!!"
     voice as0203
-    asumi ""
+    asumi "Achei. Achei!!"
 
 # game/scripts/episode06.rpy:665
 translate portugues episode06_04b1ae16:
@@ -1816,7 +1816,7 @@ translate portugues episode06_04b1ae16:
     # voice to0081
     # tomoe "Asumi, did you...?"
     voice to0081
-    tomoe ""
+    tomoe "Asumi, você...?"
 
 # game/scripts/episode06.rpy:670
 translate portugues episode06_cb160a63:
@@ -1824,19 +1824,19 @@ translate portugues episode06_cb160a63:
     # voice as0204
     # asumi "Yes, I found it! Ohh."
     voice as0204
-    asumi ""
+    asumi "Sim, eu encontrei! Ohh."
 
 # game/scripts/episode06.rpy:672
 translate portugues episode06_0d97c6aa:
 
     # "She expresses her happiness with a big smile."
-    ""
+    "Ela expressa sua felicidade com um grande sorriso."
 
 # game/scripts/episode06.rpy:673
 translate portugues episode06_e70d4085:
 
     # "She's so excited."
-    ""
+    "Ela está tão animada."
 
 # game/scripts/episode06.rpy:677
 translate portugues episode06_2fbc2799:
@@ -1844,7 +1844,7 @@ translate portugues episode06_2fbc2799:
     # voice ma0050
     # marumu "...Where was it?"
     voice ma0050
-    marumu ""
+    marumu "...Onde estava?"
 
 # game/scripts/episode06.rpy:682
 translate portugues episode06_c2d1a316:
@@ -1852,13 +1852,13 @@ translate portugues episode06_c2d1a316:
     # voice as0205
     # asumi "W...well, I found this in..."
     voice as0205
-    asumi ""
+    asumi "B...bem, eu encontrei isso na..."
 
 # game/scripts/episode06.rpy:690
 translate portugues episode06_730fa6e1:
 
     # yusuke "It was in your bag, wasn't it?"
-    yusuke ""
+    yusuke "Estava na sua mochila, não estava?"
 
 # game/scripts/episode06.rpy:692
 translate portugues episode06_5d451064:
@@ -1866,19 +1866,19 @@ translate portugues episode06_5d451064:
     # voice as0206
     # asumi "Y...yes. Ha ha, I'm so stupid!"
     voice as0206
-    asumi ""
+    asumi "S...sim. Ha ha, eu sou tão boba!"
 
 # game/scripts/episode06.rpy:694
 translate portugues episode06_4e90a941:
 
     # "The lock was loose, so it fell inside of her bag."
-    ""
+    "O fecho estava solto, então caiu dentro da mochila dela."
 
 # game/scripts/episode06.rpy:695
 translate portugues episode06_e21684e1:
 
     # "She found it when she was taking everything out of her bag in order to put in something new for the next week."
-    ""
+    "Ela o encontrou quando estava tirando tudo da mochila para colocar algo novo para a semana seguinte."
 
 # game/scripts/episode06.rpy:699
 translate portugues episode06_01f26f9e:
@@ -1886,7 +1886,7 @@ translate portugues episode06_01f26f9e:
     # voice to0082
     # tomoe "See? I told you to check your bag everyday."
     voice to0082
-    tomoe ""
+    tomoe "Viu? Eu te disse para verificar sua mochila todo dia."
 
 # game/scripts/episode06.rpy:704
 translate portugues episode06_e2123741:
@@ -1894,37 +1894,37 @@ translate portugues episode06_e2123741:
     # voice as0207
     # asumi "I'm sorry. I really apologize, Moe-Moe."
     voice as0207
-    asumi ""
+    asumi "Me desculpe. Eu realmente peço desculpas, Moe-Moe."
 
 # game/scripts/episode06.rpy:706
 translate portugues episode06_8effebd4:
 
     # "She droops for a second, but she can't hide her smile. She must be really happy."
-    ""
+    "Ela fica cabisbaixa por um segundo, mas não consegue esconder seu sorriso. Ela deve estar muito feliz."
 
 # game/scripts/episode06.rpy:707
 translate portugues episode06_2405266e:
 
     # "And Marumu and my efforts were in vain."
-    ""
+    "E os esforços da Marumu e meus foram em vão."
 
 # game/scripts/episode06.rpy:708
 translate portugues episode06_19303384:
 
     # "There's a thing or two, no...a lot of things I want to tell Asumi."
-    ""
+    "Tem uma coisa ou duas, não... muitas coisas que quero dizer à Asumi."
 
 # game/scripts/episode06.rpy:709
 translate portugues episode06_a4337b99:
 
     # "When my eyes meet hers, I naturally say,"
-    ""
+    "Quando meus olhos encontram os dela, digo naturalmente:"
 
 # game/scripts/episode06.rpy:710
 translate portugues episode06_f84979b6:
 
     # yusuke "I'm glad you found it. That's great!"
-    yusuke ""
+    yusuke "Fico feliz que você encontrou. Que ótimo!"
 
 # game/scripts/episode06.rpy:714
 translate portugues episode06_deb3caf9:
@@ -1932,43 +1932,43 @@ translate portugues episode06_deb3caf9:
     # voice as0208
     # asumi "...Yeah, thanks."
     voice as0208
-    asumi ""
+    asumi "...É, obrigada."
 
 # game/scripts/episode06.rpy:716
 translate portugues episode06_ecdd4b34:
 
     # "Everything is solved now. Her smile is back."
-    ""
+    "Está tudo resolvido agora. Seu sorriso voltou."
 
 # game/scripts/episode06.rpy:721
 translate portugues episode06_6e876c21:
 
     # "The next week, Asumi summons us to a meeting."
-    ""
+    "Na semana seguinte, Asumi nos convoca para uma reunião."
 
 # game/scripts/episode06.rpy:722
 translate portugues episode06_720292e1:
 
     # "She wants to have a party at Okonomidama to commemorate the finding of her accessory."
-    ""
+    "Ela quer fazer uma festa no Okonomidama para comemorar a descoberta do seu acessório."
 
 # game/scripts/episode06.rpy:723
 translate portugues episode06_f572310b:
 
     # "I don't know why we have to have a party, but I have nothing against having dinner at Okonomidama either. They serve delicious meals."
-    ""
+    "Não sei por que temos que fazer uma festa, mas também não tenho nada contra jantar no Okonomidama. Eles servem refeições deliciosas."
 
 # game/scripts/episode06.rpy:724
 translate portugues episode06_b49688f4:
 
     # "However, I'm a half-hour late for this meeting because Ms. Yagami asked me to help her Amateur Acting club's preparation."
-    ""
+    "No entanto, estou meia hora atrasado para esta reunião porque a Sra. Yagami me pediu para ajudar na preparação do clube de Teatro Amador dela."
 
 # game/scripts/episode06.rpy:730
 translate portugues episode06_ae7431dd:
 
     # yusuke "Sorry, I'm late."
-    yusuke ""
+    yusuke "Desculpe, estou atrasado."
 
 # game/scripts/episode06.rpy:734
 translate portugues episode06_18ef4e05:
@@ -1976,7 +1976,7 @@ translate portugues episode06_18ef4e05:
     # voice as0209
     # asumi "Yes, you're late. I want to fine you for that!!"
     voice as0209
-    asumi ""
+    asumi "Sim, você está atrasado. Quero multar você por isso!!"
 
 # game/scripts/episode06.rpy:737
 translate portugues episode06_31e82b0a:
@@ -1984,7 +1984,7 @@ translate portugues episode06_31e82b0a:
     # voice to0083
     # tomoe "Hi, Yusuke."
     voice to0083
-    tomoe ""
+    tomoe "Oi, Yusuke."
 
 # game/scripts/episode06.rpy:740
 translate portugues episode06_39c9964b:
@@ -1992,25 +1992,25 @@ translate portugues episode06_39c9964b:
     # voice ma0051
     # marumu "...Yusuke, sit."
     voice ma0051
-    marumu ""
+    marumu "...Yusuke, senta."
 
 # game/scripts/episode06.rpy:742
 translate portugues episode06_ec98073d:
 
     # "I sense something unusual, but I sit down at the table anyway."
-    ""
+    "Sinto algo incomum, mas sento à mesa mesmo assim."
 
 # game/scripts/episode06.rpy:743
 translate portugues episode06_e81e03bb:
 
     # "I was expecting them to start the party without me."
-    ""
+    "Estava esperando que começassem a festa sem mim."
 
 # game/scripts/episode06.rpy:744
 translate portugues episode06_735747a5:
 
     # "But they haven't even ordered yet."
-    ""
+    "Mas elas nem pediram ainda."
 
 # game/scripts/episode06.rpy:749
 translate portugues episode06_b79c26c2:
@@ -2018,7 +2018,7 @@ translate portugues episode06_b79c26c2:
     # voice as0210
     # asumi "Okay, let's eat!"
     voice as0210
-    asumi ""
+    asumi "Ok, vamos comer!"
 
 # game/scripts/episode06.rpy:752
 translate portugues episode06_11b27797:
@@ -2026,7 +2026,7 @@ translate portugues episode06_11b27797:
     # voice to0084
     # tomoe "...Let's start."
     voice to0084
-    tomoe ""
+    tomoe "...Vamos começar."
 
 # game/scripts/episode06.rpy:755
 translate portugues episode06_b051c9d1:
@@ -2034,31 +2034,31 @@ translate portugues episode06_b051c9d1:
     # voice ma0052
     # marumu "CHOMP-CHOMP... I'm already eating."
     voice ma0052
-    marumu ""
+    marumu "NHAM-NHAM... Já estou comendo."
 
 # game/scripts/episode06.rpy:757
 translate portugues episode06_fc5421a9:
 
     # "Marumu is a strange girl alright. Anyway, everybody starts eating at once."
-    ""
+    "Marumu é uma garota estranha, de fato. De qualquer forma, todos começam a comer de uma vez."
 
 # game/scripts/episode06.rpy:758
 translate portugues episode06_d9bc25ed:
 
     # "Asumi keeps talking while she's eating as usual."
-    ""
+    "Asumi continua falando enquanto come, como de costume."
 
 # game/scripts/episode06.rpy:759
 translate portugues episode06_82246acc:
 
     # "This is Asumi alright, but..."
-    ""
+    "Esta é a Asumi de sempre, mas..."
 
 # game/scripts/episode06.rpy:760
 translate portugues episode06_cc0a2d03:
 
     # yusuke "Hey, Asumi. Is that accessory..."
-    yusuke ""
+    yusuke "Ei, Asumi. Esse acessório..."
 
 # game/scripts/episode06.rpy:764
 translate portugues episode06_bbe6f0bd:
@@ -2066,13 +2066,13 @@ translate portugues episode06_bbe6f0bd:
     # voice as0211
     # asumi "No, Yusuke. It's Asumin!"
     voice as0211
-    asumi ""
+    asumi "Não, Yusuke. É Asumin!"
 
 # game/scripts/episode06.rpy:766
 translate portugues episode06_015457b0:
 
     # yusuke "Oh, I'm sorry. I'm such a...wait a second!"
-    yusuke ""
+    yusuke "Ah, me desculpe. Sou tão... espera aí!"
 
 # game/scripts/episode06.rpy:768
 translate portugues episode06_4656d8aa:
@@ -2080,7 +2080,7 @@ translate portugues episode06_4656d8aa:
     # voice as0212
     # asumi "This is Moe-Moe. The girl who's so busy eating is Marutan. You got that?"
     voice as0212
-    asumi ""
+    asumi "Esta é a Moe-Moe. A garota que está tão ocupada comendo é a Marutan. Entendeu?"
 
 # game/scripts/episode06.rpy:771
 translate portugues episode06_f3ef95b2:
@@ -2088,7 +2088,7 @@ translate portugues episode06_f3ef95b2:
     # voice to0085
     # tomoe "P...pleasure to meet you, Yusuke."
     voice to0085
-    tomoe ""
+    tomoe "P...prazer em conhecê-lo, Yusuke."
 
 # game/scripts/episode06.rpy:776
 translate portugues episode06_caa65f61:
@@ -2096,19 +2096,19 @@ translate portugues episode06_caa65f61:
     # voice ma0053
     # marumu "...Yusuke, good."
     voice ma0053
-    marumu ""
+    marumu "...Yusuke, bom."
 
 # game/scripts/episode06.rpy:778
 translate portugues episode06_9ab62926:
 
     # "Marumu doesn't stop swinging her flag as she eats."
-    ""
+    "Marumu não para de balançar sua bandeira enquanto come."
 
 # game/scripts/episode06.rpy:779
 translate portugues episode06_cc7be4cb:
 
     # "They look at me with smiles. I don't understand this."
-    ""
+    "Elas olham para mim com sorrisos. Não entendo isso."
 
 # game/scripts/episode06.rpy:784
 translate portugues episode06_5ad7c3bd:
@@ -2116,7 +2116,7 @@ translate portugues episode06_5ad7c3bd:
     # voice as0213
     # asumi "I haven't told you yet, but you've been promoted to a regular roommate."
     voice as0213
-    asumi ""
+    asumi "Ainda não te contei, mas você foi promovido a colega de quarto oficial."
 
 # game/scripts/episode06.rpy:787
 translate portugues episode06_963718d7:
@@ -2124,7 +2124,7 @@ translate portugues episode06_963718d7:
     # voice to0086
     # tomoe "This is actually a celebration for you."
     voice to0086
-    tomoe ""
+    tomoe "Isso é na verdade uma celebração para você."
 
 # game/scripts/episode06.rpy:792
 translate portugues episode06_520f3f20:
@@ -2132,7 +2132,7 @@ translate portugues episode06_520f3f20:
     # voice as0214
     # asumi "You! You speak too much."
     voice as0214
-    asumi ""
+    asumi "Você! Fala demais."
 
 # game/scripts/episode06.rpy:795
 translate portugues episode06_12c7548a:
@@ -2140,19 +2140,19 @@ translate portugues episode06_12c7548a:
     # voice to0087
     # tomoe "Oops. I'm sorry."
     voice to0087
-    tomoe ""
+    tomoe "Opa. Me desculpe."
 
 # game/scripts/episode06.rpy:797
 translate portugues episode06_c94660c7:
 
     # "I can't hide my surprise at the sudden promotion."
-    ""
+    "Não consigo esconder minha surpresa com a promoção repentina."
 
 # game/scripts/episode06.rpy:798
 translate portugues episode06_3440caa5:
 
     # "But why?"
-    ""
+    "Mas por quê?"
 
 # game/scripts/episode06.rpy:802
 translate portugues episode06_95059334:
@@ -2160,13 +2160,13 @@ translate portugues episode06_95059334:
     # voice as0215
     # asumi "You don't need to know the reason. Now don't go on a spree, got that!? You're still a parasite, you know."
     voice as0215
-    asumi ""
+    asumi "Você não precisa saber o motivo. Agora não vá se achando, entendeu!? Você ainda é um parasita, sabe."
 
 # game/scripts/episode06.rpy:804
 translate portugues episode06_b05b3ce9:
 
     # yusuke "Understood, Asumin!"
-    yusuke ""
+    yusuke "Entendido, Asumin!"
 
 # game/scripts/episode06.rpy:806
 translate portugues episode06_8b291ba5:
@@ -2174,7 +2174,7 @@ translate portugues episode06_8b291ba5:
     # voice as0216
     # asumi "Good! Moe-Moe, watch him and learn from him!"
     voice as0216
-    asumi ""
+    asumi "Bom! Moe-Moe, observe-o e aprenda com ele!"
 
 # game/scripts/episode06.rpy:809
 translate portugues episode06_43f5d439:
@@ -2182,19 +2182,19 @@ translate portugues episode06_43f5d439:
     # voice to0088
     # tomoe "Y...yes, ma'am."
     voice to0088
-    tomoe ""
+    tomoe "S...sim, senhora."
 
 # game/scripts/episode06.rpy:811
 translate portugues episode06_d0c81d57:
 
     # "I try to comfort Tomoe and ask Asumi a question."
-    ""
+    "Tento confortar Tomoe e faço uma pergunta à Asumi."
 
 # game/scripts/episode06.rpy:812
 translate portugues episode06_8d6e5eb5:
 
     # yusuke "By the way, what's my nickname going to be?"
-    yusuke ""
+    yusuke "A propósito, qual vai ser meu apelido?"
 
 # game/scripts/episode06.rpy:816
 translate portugues episode06_63fb2b7d:
@@ -2202,37 +2202,37 @@ translate portugues episode06_63fb2b7d:
     # voice ma0054
     # marumu "...Yusuke."
     voice ma0054
-    marumu ""
+    marumu "...Yusuke."
 
 # game/scripts/episode06.rpy:818
 translate portugues episode06_8373d4ef:
 
     # yusuke "That's not a nickname. Well, whatever."
-    yusuke ""
+    yusuke "Isso não é um apelido. Bem, tanto faz."
 
 # game/scripts/episode06.rpy:819
 translate portugues episode06_1b08f023:
 
     # "Why was I promoted to a regular roommate?"
-    ""
+    "Por que fui promovido a colega de quarto oficial?"
 
 # game/scripts/episode06.rpy:820
 translate portugues episode06_a1735e28:
 
     # "And what's all that about Asumi's accessory?"
-    ""
+    "E o que foi aquilo tudo sobre o acessório da Asumi?"
 
 # game/scripts/episode06.rpy:821
 translate portugues episode06_45c4934e:
 
     # "I have tons of questions, but what the hell, I'll let them go."
-    ""
+    "Tenho milhares de perguntas, mas que se dane, vou deixar para lá."
 
 # game/scripts/episode06.rpy:822
 translate portugues episode06_2bcd1e1b:
 
     # "Because I'm finally able to step forward as their official roommate, even though the cat got there ahead of me (sob-sob)."
-    ""
+    "Porque finalmente posso dar um passo à frente como seu colega de quarto oficial, mesmo que o gato tenha chegado lá na minha frente (snif-snif)."
 
 # game/scripts/episode06.rpy:824
 translate portugues episode06_259cb0a9:
@@ -2240,29 +2240,36 @@ translate portugues episode06_259cb0a9:
     # voice ts0019
     # toshibo "Meow!"
     voice ts0019
-    toshibo ""
+    toshibo "Miau!"
 
 # game/scripts/episode06.rpy:826
 translate portugues episode06_fef610fa:
 
     # yusuke "Okay, okay. You're still my superior."
-    yusuke ""
+    yusuke "Ok, ok. Você ainda é meu superior."
 
 translate portugues strings:
 
     # game/scripts/episode06.rpy:176
     old "Talk to Ms. Yagami."
-    new ""
+    new "Falar com a Sra. Yagami."
 
     # game/scripts/episode06.rpy:176
     old "Leave her without saying anything."
-    new ""
+    new "Sair sem dizer nada."
 
     # game/scripts/episode06.rpy:504
     old "Give up and go home."
-    new ""
+    new "Desistir e ir para casa."
 
     # game/scripts/episode06.rpy:504
     old "Search some more."
-    new ""
+    new "Procurar mais um pouco."
 
+# TODO: Translation updated at 2025-10-27 11:46
+
+translate portugues strings:
+
+    # game/scripts/episode06.rpy:4
+    old "Episode 6: Code Name/U-SUKE"
+    new "Episódio 6: Código Nome/U-SUKE"
