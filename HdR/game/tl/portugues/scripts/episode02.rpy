@@ -272,7 +272,7 @@ translate portugues episode02_57869185:
     # voice as0051
     # asumi "It's my welcome greeting. Anyway, you know our deal about THAT, right?"
     voice as0051
-    asumi "É meu cumprimento de boas-vindas. Enfim, lembra do nosso acordo sobre DAQUILO, né?"
+    asumi "É meu cumprimento de boas-vindas. Enfim, lembra do nosso acordo sobre AQUILO, né?"
 
 # game/scripts/episode02.rpy:114
 translate portugues episode02_0bf398ce:
@@ -286,7 +286,7 @@ translate portugues episode02_7540a672:
     # voice as0052
     # asumi "Are you trying to play dumb? THAT! THAT! You can stay in our room because of THAT!"
     voice as0052
-    asumi "Tá tentando bancar o esperto? AQUILO! AQUILO! Você só pode ficar no nosso quarto por causa da AQUILO!"
+    asumi "Tá tentando bancar o esperto? AQUILO! AQUILO! Você só pode ficar no nosso quarto por causa DAQUILO!"
 
 # game/scripts/episode02.rpy:120
 translate portugues episode02_9b350dc1:

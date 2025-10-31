@@ -146,7 +146,7 @@ translate portugues episode03_e9307737:
 translate portugues episode03_421ec47c:
 
     # "It's barely alive...the dried up UMA (Unidentified Mysterious Animal)."
-    "Mal está vivo... o UMA (Animal Misterioso Não Identificado) ressecado."
+    "Mal está vivo... o AMAI (Animal Misterioso Não Identificado) ressecado."
 
 # game/scripts/episode03.rpy:47
 translate portugues episode03_f95951c0:
@@ -832,7 +832,7 @@ translate portugues episode03_d2cc2c79:
 translate portugues episode03_db67f4c6:
 
     # yusuke "They must be 'Birds of a feather flock together.'"
-    yusuke "Deve ser aquele negócio de 'Cada macaco no seu galho'."
+    yusuke "Deve ser aquele negócio de 'São farinha do mesmo saco'."
 
 # game/scripts/episode03.rpy:329
 translate portugues episode03_956d079d:
@@ -2330,7 +2330,7 @@ translate portugues strings:
 translate portugues episode03_2c57ffef:
 
     # "Still, I don't know what it is. I must be careful...oh?"
-    "Ainda assim, não sei o que é. Preciso ter cuidado... huh"
+    "Ainda assim, não sei o que é. Preciso ter cuidado... ah?"
 
 # TODO: Translation updated at 2025-10-26 22:21
 
