@@ -20,7 +20,7 @@ Yusuke Sawada acabou de ser transferido por seus pais para uma nova escola, a Ac
 
 | Rota | Status | Progresso |
 |------|--------|-----------|
-| **Asumi Hirota** | 🟡 Em andamento | 29% |
+| **Asumi Hirota** | 🟡 Em andamento | 23,08% |
 | **Tomoe Katsuragi** | 🔴 Não iniciada | 0% |
 | **Marumu Ogamayama** | 🔴 Não iniciada | 0% |
 | **Namiki Honjo** | 🔴 Não iniciada | 0% |
