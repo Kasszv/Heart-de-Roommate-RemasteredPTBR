@@ -1714,7 +1714,7 @@ translate portugues episode07_a3832390:
 translate portugues episode07_bfdef6e4:
 
     # yusuke "Ms. Yagami! Ms. Yagami! The mud! Waaaaaahhh!!"
-    yusuke "Srta. Yagami! Srta. Yagami! A lama! Aaaaaaiii!!"
+    yusuke "Srta. Yagami! Srta. Yagami! A lama! Aaaaahhh!!"
 
 # game/scripts/episode07.rpy:648
 translate portugues episode07_cefb60b2:
@@ -1756,7 +1756,7 @@ translate portugues episode07_91f34e23:
 translate portugues episode07_eeeb08fe:
 
     # "Then she woke up alright."
-    "Então ela acordou bem."
+    "Aí sim ela acordou."
 
 # game/scripts/episode07.rpy:663
 translate portugues episode07_c5631895:
@@ -1786,7 +1786,7 @@ translate portugues episode07_793a90a9:
 translate portugues episode07_96e64ed8:
 
     # "She woke up alright, but only after the tractors passed us."
-    "Ela acordou bem, mas só depois que os tratores passaram por nós."
+    "Ela só acordou depois que os tratores já tinham passado por nós."
 
 # game/scripts/episode07.rpy:668
 translate portugues episode07_3d6c1cb3:
@@ -1804,7 +1804,7 @@ translate portugues episode07_1e2ef2c1:
 translate portugues episode07_4eae8ce7:
 
     # "I don't think she's peeping at me. I hurriedly take my clothes off and jump into the bathroom."
-    "Acho que ela não está me espiando. Tiro minhas roupas apressadamente e entro no banheiro."
+    "Acho que ela não está me espiando. Tiro a roupa às pressas e entro no banheiro."
 
 # game/scripts/episode07.rpy:672
 translate portugues episode07_56c32165:
@@ -1816,7 +1816,7 @@ translate portugues episode07_56c32165:
 translate portugues episode07_c5ac8a6d:
 
     # "The hot shower washes everything away. Now, how can I get out of here?"
-    "O banho quente lava tudo. Agora, como posso sair daqui?"
+    "O banho quente leva tudo embora. Agora... como vou sair daqui?"
 
 # game/scripts/episode07.rpy:674
 translate portugues episode07_32e24fea:
@@ -1860,7 +1860,7 @@ translate portugues episode07_7d99e083:
     # voice yo0034
     # yagami "I'm joining you. My hair is messed up, you know. Maybe I shouldn't sleep while I'm walking, huh? Heh heh."
     voice yo0034
-    yagami "Vou me juntar a você. Meu cabelo está uma bagunça, sabe. Talvez eu não devesse dormir enquanto ando, hein? Heh heh."
+    yagami "Vou me juntar a você. Meu cabelo tá uma bagunça, sabia? Acho que não devia dormir enquanto ando, hein? Heh heh."
 
 # game/scripts/episode07.rpy:683
 translate portugues episode07_be48940e:
@@ -1874,7 +1874,7 @@ translate portugues episode07_ae61487d:
     # voice yo0035
     # yagami "Hey, are you embarrassed? Don't worry. It's kind of rare to see a shy girl like you nowadays."
     voice yo0035
-    yagami "Ei, está com vergonha? Não se preocupe. É meio raro ver uma garota tímida como você hoje em dia."
+    yagami "Ei, está com vergonha? Não se preocupe. É meio raro ver uma garota tão tímida como você hoje em dia."
 
 # game/scripts/episode07.rpy:687
 translate portugues episode07_09ddaa59:
@@ -2008,7 +2008,7 @@ translate portugues episode07_749181ff:
 translate portugues episode07_9362c680:
 
     # "Instead, I ask her a question."
-    "Em vez disso, faço uma pergunta a ela."
+    "Não respondo. Em vez disso, faço uma pergunta."
 
 # game/scripts/episode07.rpy:727
 translate portugues episode07_75c7e25d:
@@ -2052,7 +2052,7 @@ translate portugues episode07_bac46130:
 translate portugues episode07_9a7cdab2:
 
     # yusuke "Okay, Ms. Yagami. I'm done."
-    yusuke "Certo, Srta. Yagami. Terminei."
+    yusuke "Certo, Srta. Yagami. Já terminei."
 
 # game/scripts/episode07.rpy:742
 translate portugues episode07_af43fb95:
@@ -2074,7 +2074,7 @@ translate portugues episode07_6f3142af:
 translate portugues episode07_d96e2fc1:
 
     # yusuke "No thanks. What's the difference between the swimming club and the breast stroke club anyway?"
-    yusuke "Não, obrigado. Qual é a diferença entre o clube de natação e o clube de nado de peito mesmo?"
+    yusuke "Não, valeu. Qual é a diferença entre o clube de natação e o clube de nado de peito mesmo?"
 
 # game/scripts/episode07.rpy:751
 translate portugues episode07_321b2596:
@@ -2088,7 +2088,7 @@ translate portugues episode07_321b2596:
 translate portugues episode07_d524a5c9:
 
     # "What a strange subject. She starts washing my back."
-    "Que assunto estranho. Ela começa a lavar minhas costas."
+    "Que conversa estranha. Ela começa a lavar minhas costas."
 
 # game/scripts/episode07.rpy:754
 translate portugues episode07_b3057bcf:
@@ -2106,7 +2106,7 @@ translate portugues episode07_a5911c99:
 translate portugues episode07_006244b7:
 
     # "Ms. Yagami obviously doesn't care about my feelings and continues asking me."
-    "A Srta. Yagami obviamente não se importa com meus sentimentos e continua me perguntando."
+    "A Srta. Yagami claramente não liga pros meus sentimentos e continua fazendo perguntas."
 
 # game/scripts/episode07.rpy:760
 translate portugues episode07_c7cdf3b9:
@@ -2140,7 +2140,7 @@ translate portugues episode07_452eef7e:
 translate portugues episode07_9f370d1f:
 
     # "I quickly think."
-    "Penso rapidamente."
+    "Penso o mais rápido que posso."
 
 # game/scripts/episode07.rpy:771
 translate portugues episode07_468968ad:
@@ -2238,7 +2238,7 @@ translate portugues episode07_43a8c338:
 translate portugues episode07_5af4f03e:
 
     # "Good, she thinks I'm a newcomer at the school. There's less chance of my identity being exposed, I think. However..."
-    "Ótimo, ela acha que sou nova na escola. Acho que há menos chance de minha identidade ser exposta. No entanto..."
+    "Ótimo, ela acha que sou novo na escola. Acho que há menos chance de minha identidade ser exposta. No entanto..."
 
 # game/scripts/episode07.rpy:810
 translate portugues episode07_016281f3:
@@ -2368,7 +2368,7 @@ translate portugues episode07_75a771cb:
 translate portugues episode07_f0eb5ebe:
 
     # "Something else raises its head again as well."
-    "Algo mais também levanta a cabeça novamente."
+    "Algo mais também levanta a cabeça."
 
 # game/scripts/episode07.rpy:868
 translate portugues episode07_0f5ee0c5:
@@ -2396,7 +2396,7 @@ translate portugues episode07_6c44a647:
 translate portugues episode07_b274ea2f:
 
     # yusuke "Which is?"
-    yusuke "O que é?"
+    yusuke "O quê?"
 
 # game/scripts/episode07.rpy:878
 translate portugues episode07_7fdfa79b:
@@ -2466,19 +2466,19 @@ translate portugues episode07_96d8bd72:
 translate portugues episode07_c5e0bb95:
 
     # "However, the floor is slippery with liquid soap."
-    "No entanto, o chão está escorregadio com sabão líquido."
+    "Mas o chão está escorregadio por causa do sabão."
 
 # game/scripts/episode07.rpy:901
 translate portugues episode07_56a09478:
 
     # "I slip on the tile floor,"
-    "Escorrego no piso de azulejo,"
+    "Escorrego no chão de azulejo,"
 
 # game/scripts/episode07.rpy:902
 translate portugues episode07_6473300e:
 
     # yusuke "Waaaaah!!"
-    yusuke "Aaaaaai!!"
+    yusuke "Aaaaaah!!"
 
 # game/scripts/episode07.rpy:903
 translate portugues episode07_28a0fcae:
@@ -2490,7 +2490,7 @@ translate portugues episode07_28a0fcae:
 translate portugues episode07_69286536:
 
     # "Time stops for a moment."
-    "O tempo para por um momento."
+    "O tempo parece parar por um instante."
 
 # game/scripts/episode07.rpy:905
 translate portugues episode07_c367bbda:
@@ -2502,7 +2502,7 @@ translate portugues episode07_c367bbda:
 translate portugues episode07_7c435b35:
 
     # "The floor is so smooth. I can't get a grip on it."
-    "O chão é tão liso. Não consigo me segurar."
+    "O chão é tão escorregadio que não consigo me segurar."
 
 # game/scripts/episode07.rpy:910
 translate portugues episode07_579eb6f1:
@@ -2584,7 +2584,7 @@ translate portugues episode07_91e71cb8:
 translate portugues episode07_8048fd91:
 
     # "But I lost my sense of reality for a while and couldn't understand what she had said."
-    "Mas perdi meu senso de realidade por um tempo e não conseguia entender o que ela tinha dito."
+    "Mas perdi um pouco a noção da realidade e não consegui entender o que ela disse."
 
 # game/scripts/episode07.rpy:936
 translate portugues episode07_88b5798b:
@@ -2666,13 +2666,13 @@ translate portugues episode07_a906b8c6:
 translate portugues episode07_e4656cbc:
 
     # "Tell her it's all my fault that I've lived in the girls' dorm."
-    "Dizer a ela que a culpa é toda minha por ter vivido no dormitório feminino."
+    "Contar a ela que foi tudo culpa minha por ter morado no dormitório feminino."
 
 # game/scripts/episode07.rpy:955
 translate portugues episode07_7cb99693:
 
     # "Using my arms, not to hurt my back again, I slowly sit up."
-    "Usando meus braços, para não machucar minhas costas novamente, me sento lentamente."
+    "Apoio-me nos braços para não machucar as costas de novo e me sento lentamente."
 
 # game/scripts/episode07.rpy:956
 translate portugues episode07_fc260489:
@@ -2684,7 +2684,7 @@ translate portugues episode07_fc260489:
 translate portugues episode07_ba1ef704:
 
     # yusuke "Ms. Yagami, there's something I need to tell you."
-    yusuke "Srta. Yagami, preciso contar uma coisa para você."
+    yusuke "Srta. Yagami, tem algo que preciso lhe contar."
 
 # game/scripts/episode07.rpy:959
 translate portugues episode07_3a9cd6df:
@@ -2736,7 +2736,7 @@ translate portugues episode07_a947d16e:
 translate portugues episode07_5fb8c965:
 
     # "I feel a little saved."
-    "Me sinto um pouco salvo."
+    "Me sinto um pouco aliviado."
 
 # game/scripts/episode07.rpy:972
 translate portugues episode07_33731b5b:
@@ -2768,13 +2768,13 @@ translate portugues episode07_b6fbd065:
 translate portugues episode07_a8a5e03b:
 
     # yusuke "Yes, it tastes great, but...you bought all of this at a convenience store?"
-    yusuke "Sim, está muito gostoso, mas... você comprou tudo isso em uma conveniência?"
+    yusuke "Sim, está muito gostoso, mas... você comprou tudo isso numa loja de conveniência?"
 
 # game/scripts/episode07.rpy:985
 translate portugues episode07_10ec2740:
 
     # "I was thinking she'd serve me her own home cooking."
-    "Estava pensando que ela me serviria sua própria comida caseira."
+    "Achei que ela fosse me servir algo feito por ela mesma."
 
 # game/scripts/episode07.rpy:986
 translate portugues episode07_f21f5479:
