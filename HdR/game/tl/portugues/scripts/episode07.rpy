@@ -1506,7 +1506,7 @@ translate portugues episode07_d34aa1aa:
 translate portugues episode07_c7c2c634:
 
     # "I want to clear this heavy atmosphere, but I can't come up with a good icebreaker so far."
-    "Quero aliviar esse clima pesado, mas ainda não consigo pensar em um bom quebra-gelo"
+    "Quero aliviar esse clima pesado, mas ainda não consigo pensar em um bom quebra-gelo."
 
 # game/scripts/episode07.rpy:571
 translate portugues episode07_be9d0346:
@@ -1584,7 +1584,7 @@ translate portugues episode07_4632540a:
     # voice yo0031
     # yagami "Oops. Fuhhh! I'm kind of tired. Whew."
     voice yo0031
-    yagami "Opa. Ufff! Estou meio cansada. Ufa."
+    yagami "Opa. Ufff! Estou meio cansada. Whew."
 
 # game/scripts/episode07.rpy:598
 translate portugues episode07_82bc732a:
@@ -1860,7 +1860,7 @@ translate portugues episode07_7d99e083:
     # voice yo0034
     # yagami "I'm joining you. My hair is messed up, you know. Maybe I shouldn't sleep while I'm walking, huh? Heh heh."
     voice yo0034
-    yagami "Vou me juntar a você. Meu cabelo tá uma bagunça, sabia? Acho que não devia dormir enquanto ando, hein? Heh heh."
+    yagami "Vou me juntar a você. Meu cabelo está uma bagunça, sabia? Acho que não devia dormir enquanto ando, hein? Heh heh."
 
 # game/scripts/episode07.rpy:683
 translate portugues episode07_be48940e:
@@ -2788,7 +2788,7 @@ translate portugues episode07_a8c2028a:
     # voice yo0067
     # yagami "You know what? This 'Half-cooked Sukiyaki Bowl' is good. I thought it was a joke, but it's not."
     voice yo0067
-    yagami "Sabe de uma coisa? Esta 'Tigela de Sukiyaki Meio Cozida' é boa. Pensei que fosse piada, mas não é."
+    yagami "Sabe de uma coisa? Essa 'Tigela de Sukiyaki Meio Cozida' é boa. Pensei que fosse piada, mas não é."
 
 # game/scripts/episode07.rpy:990
 translate portugues episode07_35e19d85:
@@ -2836,7 +2836,7 @@ translate portugues episode07_90b19520:
 translate portugues episode07_d7ffed99:
 
     # "Do they belong to her boyfriend? However, this room doesn't show any signs of 'his' presence."
-    "Serão do namorado dela? Mas não há nada aqui que indique a presença dele aqui."
+    "Serão do namorado dela? Mas não há nada aqui que indique a presença dele."
 
 # game/scripts/episode07.rpy:998
 translate portugues episode07_e8649a87:
@@ -3348,7 +3348,7 @@ translate portugues episode07_69e3a4a4:
 translate portugues episode07_e877a19f:
 
     # "Ms. Yagami looks dead serious. Then she returns to normal and tells me like a teacher,"
-    A Srta. Yagami fica completamente séria. Depois volta ao normal e me diz, como uma professora,"
+    "A Srta. Yagami fica completamente séria. Depois volta ao normal e me diz, como uma professora,"
 
 # game/scripts/episode07.rpy:1181
 translate portugues episode07_458ab44e:
