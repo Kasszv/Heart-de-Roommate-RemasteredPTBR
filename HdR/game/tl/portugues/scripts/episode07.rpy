@@ -2818,7 +2818,7 @@ translate portugues episode07_01d3835b:
 translate portugues episode07_f80623b3:
 
     # "Then, I realize."
-    "Então, percebo."
+    "Então eu percebo."
 
 # game/scripts/episode07.rpy:995
 translate portugues episode07_cfd531b6:
@@ -2836,13 +2836,13 @@ translate portugues episode07_90b19520:
 translate portugues episode07_d7ffed99:
 
     # "Do they belong to her boyfriend? However, this room doesn't show any signs of 'his' presence."
-    "Elas pertencem ao namorado dela? No entanto, este quarto não mostra nenhum sinal da presença 'dele'."
+    "Serão do namorado dela? Mas não há nada aqui que indique a presença dele aqui."
 
 # game/scripts/episode07.rpy:998
 translate portugues episode07_e8649a87:
 
     # "Did she buy these for me while I was passed out? But all the stores are closed by now."
-    "Ela comprou isso para mim enquanto eu estava desmaiado? Mas todas as lojas estão fechadas agora."
+    "Ela comprou essas roupas para mim enquanto eu estava desmaiado? Mas todas as lojas já estão fechadas agora."
 
 # game/scripts/episode07.rpy:999
 translate portugues episode07_8c3a5e8a:
@@ -2880,7 +2880,7 @@ translate portugues episode07_fd699412:
     # voice yo0068
     # yagami "Yes, tell me your story. Why you had to wear a girl's costume and go in the girls' dorm."
     voice yo0068
-    yagami "Sim, me conte sua história. Por que você teve que vestir uma fantasia de garota e entrar no dormitório feminino."
+    yagami "Sim, me conte sua história. Por que você teve que se vestir de garota e entrar no dormitório feminino?"
 
 # game/scripts/episode07.rpy:1014
 translate portugues episode07_41170b64:
@@ -2894,13 +2894,13 @@ translate portugues episode07_a31d6028:
     # voice yo0069
     # yagami "Did you do that to see your favorite girl? Like Tomoe?"
     voice yo0069
-    yagami "Você fez isso para ver sua garota favorita? Como a Tomoe?"
+    yagami "Você fez isso só pra ver a sua garota favorita? Como a Tomoe?"
 
 # game/scripts/episode07.rpy:1018
 translate portugues episode07_49e40743:
 
     # yusuke "No, that's not true! Tomoe is more like...she avoids me when we're in the same room."
-    yusuke "Não, isso não é verdade! A Tomoe é mais como... ela me evita quando estamos no mesmo quarto."
+    yusuke "Não, não é nada disso! A Tomoe é mais do tipo... ela me evita quando estamos no mesmo quarto."
 
 # game/scripts/episode07.rpy:1022
 translate portugues episode07_41ff55b0:
@@ -2908,7 +2908,7 @@ translate portugues episode07_41ff55b0:
     # voice yo0070
     # yagami "...The same room?"
     voice yo0070
-    yagami "...O mesmo quarto?"
+    yagami "...no mesmo quarto?"
 
 # game/scripts/episode07.rpy:1024
 translate portugues episode07_8365e769:
@@ -2926,7 +2926,7 @@ translate portugues episode07_79522736:
 translate portugues episode07_5ae5867b:
 
     # "I have no way out now."
-    "Não tenho saída agora."
+    "Agora não tenho saída."
 
 # game/scripts/episode07.rpy:1032
 translate portugues episode07_72716804:
@@ -2974,13 +2974,13 @@ translate portugues episode07_bc30b8f3:
     # voice yo0073
     # yagami "Sorry, but I can't stop laughing. I didn't know a boy lives in the Harukaze Dorm."
     voice yo0073
-    yagami "Desculpe, mas não consigo parar de rir. Não sabia que um garoto mora no Dormitório Harukaze."
+    yagami "Desculpe, mas não consigo parar de rir. Não sabia que havia um garoto morando no dormitório Harukaze."
 
 # game/scripts/episode07.rpy:1047
 translate portugues episode07_c5e066da:
 
     # yusuke "I guess it's time for me to leave. But please, don't force the girls out of there, too!"
-    yusuke "Acho que é hora de eu ir embora. Mas por favor, não expulse as garotas de lá também!"
+    yusuke "Acho que é hora de eu ir. Mas por favor, não expulse as garotas de lá também!"
 
 # game/scripts/episode07.rpy:1051
 translate portugues episode07_64cd5f48:
@@ -2988,7 +2988,7 @@ translate portugues episode07_64cd5f48:
     # voice yo0074
     # yagami "But I have to. No matter who they are, those who break the rules must be punished."
     voice yo0074
-    yagami "Mas tenho que. Não importa quem sejam, aqueles que quebram as regras devem ser punidos."
+    yagami "Mas eu tenho de fazer isso. Quem quebra as regras tem que ser punido."
 
 # game/scripts/episode07.rpy:1053
 translate portugues episode07_b762662e:
@@ -3000,7 +3000,7 @@ translate portugues episode07_b762662e:
 translate portugues episode07_a84b782a:
 
     # "She tells me in a cold tone, then she starts chuckling."
-    "Ela me diz em um tom frio, então começa a rir."
+    "Ela fala num tom frio, e então começa a rir."
 
 # game/scripts/episode07.rpy:1058
 translate portugues episode07_b13de25c:
@@ -3020,7 +3020,7 @@ translate portugues episode07_431ac486:
     # voice yo0075
     # yagami "Well, no one broke the rules in this case. I can't punish anyone if there's no one to punish."
     voice yo0075
-    yagami "Bem, ninguém quebrou as regras neste caso. Não posso punir ninguém se não há ninguém para punir."
+    yagami "Bem, ninguém quebrou as regras neste caso. Não posso punir alguém se não há culpado."
 
 # game/scripts/episode07.rpy:1065
 translate portugues episode07_92df6cd5:
@@ -3100,7 +3100,7 @@ translate portugues episode07_12d1c4b4:
     # voice yo0079
     # yagami "You want me to punish you then?"
     voice yo0079
-    yagami "Você quer que eu te puna então?"
+    yagami "Quer que eu te puna, é isso?"
 
 # game/scripts/episode07.rpy:1091
 translate portugues episode07_094b1842:
@@ -3146,19 +3146,19 @@ translate portugues episode07_219e1e4e:
 translate portugues episode07_ea5c9e30:
 
     # "But I still don't understand why Ms. Yagami helps me this much."
-    "Mas ainda não entendo por que a Srta. Yagami me ajuda tanto."
+    "Mas ainda não entendo por que a Srta. Yagami está me ajudando tanto."
 
 # game/scripts/episode07.rpy:1104
 translate portugues episode07_0fcd5935:
 
     # "I appreciate her, but I don't get it."
-    "Agradeço a ela, mas não entendo."
+    "Agradeço a ela, mas continuo sem entender."
 
 # game/scripts/episode07.rpy:1108
 translate portugues episode07_82ddf744:
 
     # "Ms. Yagami stares at me with serious eyes while I feel these mixed emotions."
-    "A Srta. Yagami me encara com olhos sérios enquanto sinto essas emoções conflitantes."
+    "A Srta. Yagami me encara com um olhar sério, enquanto tento lidar com sentimentos confusos."
 
 # game/scripts/episode07.rpy:1110
 translate portugues episode07_56a84c75:
@@ -3198,7 +3198,7 @@ translate portugues episode07_84242331:
 translate portugues episode07_9ea035b1:
 
     # "She'll become our strong ally, but in a sense, she's victimized because of my mistakes."
-    "Ela se tornará nossa forte aliada, mas de certa forma, ela é vitimizada por causa dos meus erros."
+    "Ela vai se tornar uma grande aliada, mas, de certo modo, acabou se tornando vítima dos meus erros."
 
 # game/scripts/episode07.rpy:1121
 translate portugues episode07_e55adc76:
@@ -3224,7 +3224,7 @@ translate portugues episode07_2944e025:
 translate portugues episode07_7f8ddd40:
 
     # "She passes me the cleaned-up uniform and smiles."
-    "Ela me passa o uniforme limpo e sorri."
+    "Ela me entrega o uniforme limpo e sorri."
 
 # game/scripts/episode07.rpy:1133
 translate portugues episode07_70480b45:
@@ -3252,7 +3252,7 @@ translate portugues episode07_3be33357:
 translate portugues episode07_407bfec5:
 
     # yusuke "What!? I...err... in fact, I can't see a thing without glasses, just like you, so..."
-    yusuke "O quê!? Eu... err... na verdade, não consigo ver nada sem óculos, assim como você, então..."
+    yusuke "O quê!? Eu... ahm... na verdade, não consigo ver nada sem óculos, assim como você, então..."
 
 # game/scripts/episode07.rpy:1141
 translate portugues episode07_5c87634a:
@@ -3348,7 +3348,7 @@ translate portugues episode07_69e3a4a4:
 translate portugues episode07_e877a19f:
 
     # "Ms. Yagami looks dead serious. Then she returns to normal and tells me like a teacher,"
-    "A Srta. Yagami parece mortamente séria. Então ela volta ao normal e me diz como uma professora,"
+    A Srta. Yagami fica completamente séria. Depois volta ao normal e me diz, como uma professora,"
 
 # game/scripts/episode07.rpy:1181
 translate portugues episode07_458ab44e:
@@ -3400,7 +3400,7 @@ translate portugues episode07_54c04ba8:
 translate portugues episode07_96b1adce:
 
     # "I look up at the night sky and feel as if it's trying to suck me up. Then, I murmur,"
-    "Olho para o céu noturno e sinto como se estivesse tentando me sugar. Então, murmuro,"
+    "Olho para o céu noturno e sinto como se ele estivesse tentando me sugar. Então, murmuro,"
 
 # game/scripts/episode07.rpy:1198
 translate portugues episode07_ad03aabf:
