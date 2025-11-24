@@ -52,7 +52,7 @@ translate portugues episode08_09362fe4:
     # voice as0226
     # asumi "You're such a worry-wart, Moe-Moe. Don't worry about it. In addition, Yusuke's treating because he's apologizing for causing his roommates so much trouble."
     voice as0226
-    asumi "Você é tão preocupada, Moe-Moe. Não se preocupa. Além disso, o Yusuke vai pagar porque está se desculpando por causar tanto problema para suas colegas de quarto."
+    asumi "Você é tão preocupada, Moe-Moe. Não se preocupe. Além disso, o Yusuke vai pagar, já que está se desculpando por ter causado tanto problema as suas colegas de quarto."
 
 # game/scripts/episode08.rpy:35
 translate portugues episode08_60c4d468:
@@ -78,7 +78,7 @@ translate portugues episode08_76de8d1e:
 translate portugues episode08_76508eda:
 
     # "I don't really care about Asumin, but Moe-Moe and Marutan are happy."
-    "Eu não ligo muito para a Asumin, mas a Moe-Moe e a Marutan estão felizes."
+    "Não me importo muito com a Asumin, mas a Moe-Moe e a Marutan estão felizes."
 
 # game/scripts/episode08.rpy:43
 translate portugues episode08_4cbede04:
@@ -98,7 +98,7 @@ translate portugues episode08_a511a431:
     # voice as0227
     # asumi "OK! The winner of today's Asumin prize is..."
     voice as0227
-    asumi "OK! A vencedora do prêmio Asumin de hoje é..."
+    asumi "OK! E a vencedora do Prêmio Asumin de hoje é..."
 
 # game/scripts/episode08.rpy:52
 translate portugues episode08_f25ee695:
@@ -124,7 +124,7 @@ translate portugues episode08_614597aa:
     # voice as0228
     # asumi "...Asumin! Yeah!"
     voice as0228
-    asumi "...A Asumin! Isso!"
+    asumi "...A Asumin! Yeah!"
 
 # game/scripts/episode08.rpy:63
 translate portugues episode08_5b70a411:
@@ -144,7 +144,7 @@ translate portugues episode08_55838280:
     # voice as0229
     # asumi "Because! No one else deserves the prize today!"
     voice as0229
-    asumi "Porque! Ninguém mais merece o prêmio hoje!"
+    asumi "Porque ninguém mais merece o prêmio hoje!"
 
 # game/scripts/episode08.rpy:72
 translate portugues episode08_30fb7f5c:
@@ -158,7 +158,7 @@ translate portugues episode08_7718b94b:
     # voice as0230
     # asumi "But that would be so boring! That's why I decided the prize goes to me today. I'm the hardest worker in the group, you know!?"
     voice as0230
-    asumi "Mas isso seria tão chato! Por isso decidi que o prêmio fica comigo hoje. Eu sou a que mais trabalha no grupo, sabia!?"
+    asumi "Mas isso seria tão chato! Então decidi que o prêmio vai pra mim hoje. Eu sou a que mais trabalha no grupo, sabia!?"
 
 # game/scripts/episode08.rpy:77
 translate portugues episode08_8e036d0d:
@@ -192,19 +192,19 @@ translate portugues episode08_fff820ff:
 translate portugues episode08_6471881b:
 
     # "Her favorite 'Buta Tama (Pork & Egg Japanese pancake)' dish arrives."
-    "Chega seu prato favorito 'Buta Tama' (Panqueca Japonesa de Porco e Ovo)."
+    "Chega o seu prato favorito: Buta Tama (panqueca japonesa de porco com ovo)."
 
 # game/scripts/episode08.rpy:91
 translate portugues episode08_7e58a486:
 
     # "She instructs everybody about what to do and starts to cook her 'Buta Tama.'"
-    "Ela instrui todo mundo sobre o que fazer e começa a cozinhar seu 'Buta Tama'."
+    "Ela dá instruções a todos e começa a preparar seu Buta Tama."
 
 # game/scripts/episode08.rpy:92
 translate portugues episode08_6729f6ec:
 
     # "I can't help but be dissatisfied with her attitude."
-    "Não posso deixar de ficar insatisfeito com a atitude dela."
+    "Não consigo deixar de ficar insatisfeito com a atitude dela."
 
 # game/scripts/episode08.rpy:93
 translate portugues episode08_f08cdcd6:
@@ -216,7 +216,7 @@ translate portugues episode08_f08cdcd6:
 translate portugues episode08_e9e03820:
 
     # yusuke "You always selfishly make all the decisions. I don't think that's nice, Asumin."
-    yusuke "Você sempre egoistamente toma todas as decisões. Eu não acho legal, Asumin."
+    yusuke "Você sempre decide tudo por conta própria. Não acho isso legal, Asumin."
 
 # game/scripts/episode08.rpy:100
 translate portugues episode08_d7323c58:
@@ -244,7 +244,7 @@ translate portugues episode08_4f29fd28:
 translate portugues episode08_3d1e3c0e:
 
     # yusuke "...I think someone other than yourself can do the job."
-    yusuke "...Acho que alguém além de você pode fazer o trabalho."
+    yusuke "...Acho que alguém além de você pode ser a líder."
 
 # game/scripts/episode08.rpy:112
 translate portugues episode08_115b4878:
@@ -264,7 +264,7 @@ translate portugues episode08_8c1a2c0e:
 translate portugues episode08_f3cc0a14:
 
     # "But a few days later, my doubts on the subject arise again."
-    "Mas alguns dias depois, minhas dúvidas sobre o assunto surgem novamente."
+    "Mas, alguns dias depois, minhas dúvidas sobre o assunto voltam a surgir."
 
 # game/scripts/episode08.rpy:120
 translate portugues episode08_192be289:
@@ -318,7 +318,7 @@ translate portugues episode08_5a12785c:
 translate portugues episode08_6d6ae0b2:
 
     # "Completely ignoring Asumi, Namiki walks toward Tomoe."
-    "Ignorando completamente a Asumi, Namiki caminha em direção à Tomoe."
+    "Ignorando completamente a Asumi, Namiki caminha em direção a Tomoe."
 
 # game/scripts/episode08.rpy:150
 translate portugues episode08_0d8be69a:
@@ -342,13 +342,13 @@ translate portugues episode08_6662a1e9:
     # voice to0120
     # tomoe "Really? ...YIKES!"
     voice to0120
-    tomoe "Sério? ...AI CREDO!"
+    tomoe "Sério? ...NOSSA!"
 
 # game/scripts/episode08.rpy:165
 translate portugues episode08_4d9fa540:
 
     # "I knew Namiki would jump on her."
-    "Eu sabia que a Namiki pularia nela."
+    "Eu sabia que a Namiki ia pular em cima dela."
 
 # game/scripts/episode08.rpy:166
 translate portugues episode08_6b7e3beb:
@@ -360,13 +360,13 @@ translate portugues episode08_6b7e3beb:
 translate portugues episode08_b516aa4c:
 
     # "Marumu's enjoying watching them."
-    "Marumu está se divertindo assistindo."
+    "Marumu está se divertindo vendo a cena."
 
 # game/scripts/episode08.rpy:174
 translate portugues episode08_7eb9333f:
 
     # "But no matter how you look at it, Asumi seems very unhappy."
-    "Mas de qualquer forma que se olhe, Asumi parece muito infeliz."
+    "Mas de qualquer ângulo que se olhe, Asumi parece muito infeliz."
 
 # game/scripts/episode08.rpy:175
 translate portugues episode08_68c1162f:
@@ -428,7 +428,7 @@ translate portugues episode08_32abc7c1:
     # voice na0062
     # namiki "Oh, you say such cold things. You have a grudge against me for saying the cross-dressed Yusuke is cuter than you, don't you?"
     voice na0062
-    namiki "Oh, que coisa fria de se dizer. Você guarda rancinho de mim por eu ter dito que o Yusuke de roupa de garota é mais fofo que você, não é?"
+    namiki "Oh, que coisa fria de se dizer. Você guarda rancinho de mim por eu ter dito que o Yusuke de roupa de garota é mais fofo que você, né?"
 
 # game/scripts/episode08.rpy:206
 translate portugues episode08_f596785f:
@@ -456,7 +456,7 @@ translate portugues episode08_506c6654:
     # voice na0063
     # namiki "All alone in a room for three people... All alone. The open space makes me lonely, and that's getting overwhelming!"
     voice na0063
-    namiki "Sozinha num quarto para três pessoas... Sozinha. O espaço vazio me deixa solitária, e está ficando pesado!"
+    namiki "Sozinha num quarto pra três pessoas... Sozinha. Esse espaço vazio me deixa solitária... está ficando insuportável!"
 
 # game/scripts/episode08.rpy:217
 translate portugues episode08_65f9e856:
@@ -464,7 +464,7 @@ translate portugues episode08_65f9e856:
     # voice na0064
     # namiki "Don't you think that's so sad, Moe-Moe? Don't you?"
     voice na0064
-    namiki "Você não acha isso tão triste, Moe-Moe? Não acha?"
+    namiki "Você não acha isso triste, Moe-Moe? Não acha?"
 
 # game/scripts/episode08.rpy:222
 translate portugues episode08_3f624130:
@@ -472,7 +472,7 @@ translate portugues episode08_3f624130:
     # voice to0121
     # tomoe "Well, I do think that would be lonely..."
     voice to0121
-    tomoe "Bem, eu acho que seria solitário mesmo..."
+    tomoe "Bem, acho que seria solitário mesmo..."
 
 # game/scripts/episode08.rpy:227
 translate portugues episode08_41f950ba:
@@ -492,7 +492,7 @@ translate portugues episode08_d789d172:
     # voice na0065
     # namiki "Moe-Moe, why don't you come with me? Make me feel warm with your soft, big breasts and rid me of my loneliness!"
     voice na0065
-    namiki "Moe-Moe, por que você não vem comigo? Me aqueça com seus seios macios e grandes e me livre da solidão!"
+    namiki "Moe-Moe, por que você não vem comigo? Me aqueça com seus seios grandes e macios... e acabe com a minha solidão!"
 
 # game/scripts/episode08.rpy:239
 translate portugues episode08_e465663d:
@@ -522,31 +522,31 @@ translate portugues episode08_a954c459:
     # voice na0067
     # namiki "You're willing to help me get rid of this lonely feeling? I appreciate the thought, but maybe next time. This time, I need Moe-Moe!!!"
     voice na0067
-    namiki "Você está disposta a me ajudar a me livrar desse sentimento de solidão? Agradeço a intenção, mas talvez da próxima. Dessa vez, eu preciso da Moe-Moe!!!"
+    namiki "Quer me ajudar a acabar com essa solidão? Agradeço a intenção, mas deixa pra próxima. Desta vez, eu quero a Moe-Moe!!!!"
 
 # game/scripts/episode08.rpy:260
 translate portugues episode08_039a7aaa:
 
     # "The room turns into a chaotic state, filled with panic."
-    "O quarto se transforma em um estado caótico, cheio de pânico."
+    "O quarto se transforma em um caos, tomado pelo pânico."
 
 # game/scripts/episode08.rpy:261
 translate portugues episode08_1e7e1ce4:
 
     # "They make so much noise, I wouldn't be surprised if the girls from the other rooms, especially *that* trio, who live in the opposite room to Namiki's, complain about us."
-    "Elas fazem tanto barulho, que eu não ficaria surpreso se as garotas dos outros quartos, especialmente *aquele* trio, que mora no quarto em frente ao da Namiki, reclamassem de nós."
+    "Elas fazem tanto barulho que eu não ficaria surpreso se as garotas dos outros quartos, especialmente *aquele* trio, que mora no quarto em frente ao da Namiki, reclamassem da gente."
 
 # game/scripts/episode08.rpy:265
 translate portugues episode08_09f7f011:
 
     # "Amidst the chaos, Asumi comes to her senses a little bit."
-    "Em meio ao caos, Asumi volta a si um pouco."
+    "Em meio ao caos, Asumi recobra um pouco o juízo."
 
 # game/scripts/episode08.rpy:266
 translate portugues episode08_e91b942f:
 
     # "After taking a deep breath, she yells so loud it causes the room to shake."
-    "Depois de respirar fundo, ela grita tão alto que faz o quarto tremer."
+    "Depois de respirar fundo, ela grita tão alto que o quarto chega a tremer."
 
 # game/scripts/episode08.rpy:270
 translate portugues episode08_d5584caa:
@@ -554,7 +554,7 @@ translate portugues episode08_d5584caa:
     # voice as0239
     # asumi "Silence! Everyone, be silent! Can't you listen to your leader's orders!?"
     voice as0239
-    asumi "Silêncio! Todo mundo, fiquem quietos! Vocês não conseguem ouvir as ordens da sua líder!?"
+    asumi "Silêncio! Todo mundo quieto! Não conseguem ouvir as ordens da líder de vocês!?"
 
 # game/scripts/episode08.rpy:272
 translate portugues episode08_d0e28978:
@@ -566,13 +566,13 @@ translate portugues episode08_d0e28978:
 translate portugues episode08_7736270e:
 
     # "Upon hearing Asumi, a certain someone actually shuts up."
-    "Ao ouvir Asumi, uma certa pessoa realmente cala a boca."
+    "Ao ouvir Asumi, uma certa pessoa realmente se cala."
 
 # game/scripts/episode08.rpy:274
 translate portugues episode08_7e684971:
 
     # "It's none other than the person who started it all: Namiki."
-    "Nada mais nada menos do que a pessoa que começou tudo: Namiki."
+    "Nada mais, nada menos que a pessoa que começou tudo: Namiki."
 
 # game/scripts/episode08.rpy:279
 translate portugues episode08_bfafeeb6:
@@ -624,7 +624,7 @@ translate portugues episode08_7ff33035:
 translate portugues episode08_6218e219:
 
     # "The room becomes quiet, and as the air thickens, a new fight is about to start."
-    "O quarto fica quieto, e conforme o ar fica pesado, uma nova briga está prestes a começar."
+    "O quarto fica em silêncio, e conforme o ar pesa, uma nova briga está prestes a começar."
 
 # game/scripts/episode08.rpy:311
 translate portugues episode08_cac93614:
@@ -632,7 +632,7 @@ translate portugues episode08_cac93614:
     # voice na0071
     # namiki "Here's what I think: A leader should be chosen properly. Just because no one else wants to do it, an egoistic and self-centered person being the leader causes huge problems!"
     voice na0071
-    namiki "É o que eu acho: Uma líder deveria ser escolhida direito. Só porque ninguém mais quer fazer, uma pessoa egoísta e egocêntrica ser a líder causa problemas enormes!"
+    namiki "É o que eu acho, é que uma líder devia ser escolhida direito. Só porque ninguém mais quer o cargo, deixar uma pessoa egoísta e egocêntrica no comando causa problemas enormes!"
 
 # game/scripts/episode08.rpy:316
 translate portugues episode08_ec3e75ba:
@@ -646,7 +646,7 @@ translate portugues episode08_ec3e75ba:
 translate portugues episode08_2c648dba:
 
     # "Again, Namiki ignores Asumi and continues to speak to the others."
-    "Novamente, Namiki ignora Asumi e continua falando com os outros."
+    "Mais uma vez, Namiki ignora Asumi e continua falando com os outros."
 
 # game/scripts/episode08.rpy:322
 translate portugues episode08_a9178c19:
@@ -654,7 +654,7 @@ translate portugues episode08_a9178c19:
     # voice na0072
     # namiki "A leader is a symbol for the team. One needs to be chosen properly!"
     voice na0072
-    namiki "Uma líder é um símbolo para a equipe. Precisa ser escolhida direito!"
+    namiki "Uma líder é o símbolo da equipe! Ela precisa ser escolhida direito!"
 
 # game/scripts/episode08.rpy:327
 translate portugues episode08_78fbf3b2:
@@ -662,7 +662,7 @@ translate portugues episode08_78fbf3b2:
     # voice as0243
     # asumi "That's not necessary. I'm fulfilling the part of this team's leader perfectly!"
     voice as0243
-    asumi "Isso não é necessário. Eu estou cumprindo o papel de líder dessa equipe perfeitamente!"
+    asumi "Isso não é necessário. Eu estou cumprindo o papel de líder perfeitamente!"
 
 # game/scripts/episode08.rpy:332
 translate portugues episode08_a0781634:
@@ -692,13 +692,13 @@ translate portugues episode08_7fe2f347:
 translate portugues episode08_fbdb5d3e:
 
     # "The method Namiki suggested...while old, it's the most democratic method, and it's still widely used today."
-    "O método que Namiki sugeriu... embora antigo, é o método mais democrático, e ainda é amplamente usado hoje."
+    "O método que a Namiki sugeriu... embora antigo, ainda é o mais democrático, e continua sendo usado até hoje."
 
 # game/scripts/episode08.rpy:348
 translate portugues episode08_6e9eb6ce:
 
     # "We're to decide on the leader based on everyone's votes."
-    "Vamos decidir a líder com base nos votos de todos."
+    "Vamos escolher a líder com base nos votos de todos."
 
 # game/scripts/episode08.rpy:349
 translate portugues episode08_4c621b42:
@@ -710,13 +710,13 @@ translate portugues episode08_4c621b42:
 translate portugues episode08_1935b2e7:
 
     # "Marumu... I don't know what she's thinking."
-    "Marumu... Eu não sei o que ela está pensando."
+    "Marumu... não faço ideia do que ela está pensando."
 
 # game/scripts/episode08.rpy:351
 translate portugues episode08_d5949e23:
 
     # "And me... I'm thinking about this quite seriously."
-    "E eu... Estou pensando nisso bem seriamente."
+    "E eu... estou levando isso bem a sério."
 
 # game/scripts/episode08.rpy:360
 translate portugues episode08_089100d9:
@@ -746,7 +746,7 @@ translate portugues episode08_6956f990:
 translate portugues episode08_c4bbe79b:
 
     # "Clearly, she's threatening me with those eyes."
-    "Claramente, ela está me ameaçando com aqueles olhos."
+    "Dá pra ver que ela tá me ameaçando com aquele olhar."
 
 # game/scripts/episode08.rpy:368
 translate portugues episode08_d0f334d5:
@@ -760,7 +760,7 @@ translate portugues episode08_008b8521:
     # voice na0077
     # namiki "Now that I've transferred here, I'm a student of this school. I can go to the teachers' office at any time, so..."
     voice na0077
-    namiki "Agora que me transferi para cá, sou uma estudante desta escola. Posso ir à sala dos professores a qualquer hora, então..."
+    namiki "Agora que me transferi para cá, sou uma aluna dessa escola. Posso ir à sala dos professores a qualquer hora, então..."
 
 # game/scripts/episode08.rpy:374
 translate portugues episode08_4aa984bc:
@@ -932,7 +932,7 @@ translate portugues episode08_3cf714da:
     # voice na0080
     # namiki "Oh, poor Moe-Moe! That evil woman has something on you and threatened you to see things her way, isn't that right?"
     voice na0080
-    namiki "Ah, coitada da Moe-Moe! Aquela mulher maligna tem algo contra você e ameaçou você para ver as coisas do jeito dela, não é?"
+    namiki "Ah, coitada da Moe-Moe! Aquela mulher maligna tem algo contra você e te ameaçou pra você ver as coisas do jeito dela, não é?"
 
 # game/scripts/episode08.rpy:441
 translate portugues episode08_1bbd5b0a:
@@ -946,19 +946,19 @@ translate portugues episode08_1bbd5b0a:
 translate portugues episode08_1f34e6e3:
 
     # yusuke "You're the one doing that, Namiki... UGH!"
-    yusuke "Você que está fazendo isso, Namiki... AI!"
+    yusuke "É você que está fazendo isso, Namiki... AI!"
 
 # game/scripts/episode08.rpy:448
 translate portugues episode08_8529aca7:
 
     # "Namiki throws a back-fisted punch, and I land on the floor."
-    "Namiki dá um soco de costas, e eu caio no chão."
+    "Namiki me acerta com um soco de costas, e eu caio no chão."
 
 # game/scripts/episode08.rpy:449
 translate portugues episode08_347f7f34:
 
     # "Whoever tells the truth always takes a risk with their life."
-    "Quem diz a verdade sempre arrisca a própria vida."
+    "Quem fala a verdade sempre arrisca a própria vida."
 
 # game/scripts/episode08.rpy:453
 translate portugues episode08_7d2e5ba2:
@@ -982,7 +982,7 @@ translate portugues episode08_8cb53b99:
     # voice na0082
     # namiki "Oh, Moe-Moe, say my name again!"
     voice na0082
-    namiki "Ah, Moe-Moe, diga meu nome de novo!"
+    namiki "Ah, Moe-Moe, diz meu nome de novo!"
 
 # game/scripts/episode08.rpy:469
 translate portugues episode08_52d4c869:
@@ -998,7 +998,7 @@ translate portugues episode08_dd460047:
     # voice na0083
     # namiki "The way you say my name 'Namiki,' has a nice ring to it."
     voice na0083
-    namiki "O jeito que você diz meu nome 'Namiki', tem um som tão bom."
+    namiki "O jeito que você fala meu nome 'Namiki', tem um som tão bonito."
 
 # game/scripts/episode08.rpy:476
 translate portugues episode08_af3a58d2:
@@ -1012,7 +1012,7 @@ translate portugues episode08_005bfa37:
     # voice as0245
     # asumi "2-2 now. We have one more person's vote."
     voice as0245
-    asumi "2 a 2 agora. Temos mais um voto."
+    asumi "2 a 2 agora. Falta o voto de uma pessoa."
 
 # game/scripts/episode08.rpy:485
 translate portugues episode08_c9474c4c:
@@ -1024,13 +1024,13 @@ translate portugues episode08_c9474c4c:
 translate portugues episode08_a7da86f1:
 
     # "Asumi slowly puts her hand into the box."
-    "Asumi lentamente coloca a mão na caixa."
+    "Asumi lentamente coloca a mão dentro da caixa."
 
 # game/scripts/episode08.rpy:487
 translate portugues episode08_132c1ebb:
 
     # "She takes the paper out and slowly opens it..."
-    "Ela tira o papel e lentamente o abre..."
+    "Ela tira o papel e abre devagar..."
 
 # game/scripts/episode08.rpy:489
 translate portugues episode08_4c8d6fb2:
@@ -1100,13 +1100,13 @@ translate portugues episode08_459c41e2:
 translate portugues episode08_02835499:
 
     # "The issue can't be settled like this."
-    "A questão não pode ser resolvida assim."
+    "Não dá pra resolver a questão assim."
 
 # game/scripts/episode08.rpy:508
 translate portugues episode08_db1f19a7:
 
     # "We've got a situation here... Tomoe then surprisingly tells us as she puts the box away,"
-    "Temos uma situação aqui... Então Tomoe nos diz, surpreendentemente, enquanto guarda a caixa,"
+    "Temos um problema aqui... Então Tomoe nos diz, surpresa, enquanto guarda a caixa,"
 
 # game/scripts/episode08.rpy:513
 translate portugues episode08_a04a042c:
@@ -1128,13 +1128,13 @@ translate portugues episode08_5e170ef5:
 translate portugues episode08_98a2c3b6:
 
     # "The two candidates run toward Tomoe."
-    "As duas candidatas correm em direção à Tomoe."
+    "As duas candidatas correm na direção da Tomoe."
 
 # game/scripts/episode08.rpy:521
 translate portugues episode08_4e4f5d60:
 
     # "Tomoe drops the last voting ballot."
-    "Tomoe deixa cair a última cédula eleitoral."
+    "Tomoe deixa cair a última cédula."
 
 # game/scripts/episode08.rpy:522
 translate portugues episode08_c0585f24:
@@ -1154,19 +1154,19 @@ translate portugues episode08_a6d94438:
 translate portugues episode08_5b24d868:
 
     # "Asumi grabs the paper from Namiki and looks at it, and then...she's just as lost for words as Namiki."
-    "Asumi pega o papel da Namiki e olha para ele, e então... ela fica tão sem palavras quanto a Namiki."
+    "Asumi pega o papel da Namiki, olha pra ele e então... fica tão sem palavras quanto a Namiki."
 
 # game/scripts/episode08.rpy:532
 translate portugues episode08_f1732a27:
 
     # "There's a cat's footprint on the paper."
-    "Há uma pegada de gato no papel."
+    "Tem uma pegada de gato no papel"
 
 # game/scripts/episode08.rpy:536
 translate portugues episode08_0e3f635f:
 
     # "Tomoe rubs Toshibo's head and tells him,"
-    "Tomoe acaricia a cabeça de Toshibo e diz a ele:"
+    "Tomoe faz carinho na cabeça do Toshibo e diz:"
 
 # game/scripts/episode08.rpy:540
 translate portugues episode08_279179f9:
@@ -1238,7 +1238,7 @@ translate portugues episode08_3ed44659:
 translate portugues episode08_61d293e6:
 
     # "I guess that my eventful life will continue..."
-    "Acho que minha vida cheia de acontecimentos vai continuar..."
+    "Acho que minha vida cheia de confusões vai continuar..."
 
 # game/scripts/episode08.rpy:569
 translate portugues episode08_33e74582:
@@ -1254,7 +1254,7 @@ translate portugues episode08_e40186d6:
     # voice as0249
     # asumi "Sure! Let's settle who's suited to be a true leader once and for all!"
     voice as0249
-    asumi "Claro! Vamos decidir de uma vez por todas quem é adequada para ser uma verdadeira líder!"
+    asumi "Claro! Vamos decidir de uma vez por todas quem merece ser a verdadeira líder!"
 
 # game/scripts/episode08.rpy:579
 translate portugues episode08_2d1b51bd:
@@ -1354,7 +1354,7 @@ translate portugues episode08_bff49b5a:
     # voice na0090
     # namiki "Don't you think a leader should be sexy like me, Yusuke?"
     voice na0090
-    namiki "Você não acha que uma líder deveria ser sexy como eu, Yusuke?"
+    namiki "Você não acha que uma líder deveria ser sexy assim como eu, Yusuke?"
 
 # game/scripts/episode08.rpy:617
 translate portugues episode08_140be951:
@@ -1386,7 +1386,7 @@ translate portugues episode08_6ab47489:
 translate portugues episode08_b764c112:
 
     # yusuke "W...why does this happen to me... Ugh!"
-    yusuke "P...por que isso acontece comigo... Aff!"
+    yusuke "P...por que isso acontece comigo... Ugh!"
 
 # game/scripts/episode08.rpy:635
 translate portugues episode08_c4c32edc:
@@ -1474,7 +1474,7 @@ translate portugues episode08_41cc5604:
 translate portugues episode08_8c0638df:
 
     # "I don't know how Namiki woke Tomoe up, but as soon as she goes to Tomoe's room, we hear screaming."
-    "Não sei como a Namiki acordou a Tomoe, mas assim que ela vai para o quarto da Tomoe, ouvimos gritos."
+    "Não sei como a Namiki acordou a Tomoe, mas assim que ela entra no quarto da Tomoe, ouvimos gritos."
 
 # game/scripts/episode08.rpy:679
 translate portugues episode08_e0739389:
@@ -1564,7 +1564,7 @@ translate portugues episode08_3fec2f4e:
 translate portugues episode08_926afb7f:
 
     # "In this school, students in the same grade are in classrooms on the same floor."
-    "Nesta escola, alunos da mesma série ficam em salas de aula no mesmo andar."
+    "Nessa escola, alunos da mesma série ficam em salas de aula no mesmo andar."
 
 # game/scripts/episode08.rpy:699
 translate portugues episode08_eefb0d42:
@@ -1576,7 +1576,7 @@ translate portugues episode08_eefb0d42:
 translate portugues episode08_23d68635:
 
     # "In conclusion, Namiki (my 'older sister') and I are in the same grade."
-    "Em conclusão, Namiki (minha 'irmã mais velha') e eu estamos na mesma série."
+    "Resumindo, Namiki (minha 'irmã mais velha') e eu estamos na mesma série."
 
 # game/scripts/episode08.rpy:701
 translate portugues episode08_071567b6:
@@ -1620,13 +1620,13 @@ translate portugues episode08_e0142c08:
 translate portugues episode08_36a19579:
 
     # "Asumi is all fired up for the sprint."
-    "Asumi está toda animada para o sprint."
+    "Asumi está toda animada para a corrida."
 
 # game/scripts/episode08.rpy:710
 translate portugues episode08_e4107910:
 
     # "Is this a public relations stunt for the leader competition?"
-    "Isso é uma manobra de relações públicas para a competição de líder?"
+    "Isso é uma jogada de relações públicas pra competição de líder?"
 
 # game/scripts/episode08.rpy:711
 translate portugues episode08_a9ba8e83:
@@ -1644,13 +1644,13 @@ translate portugues episode08_b9dd64b5:
 translate portugues episode08_0a8d8c62:
 
     # "This is just a part of P.E., so there's no starter pistol."
-    "Isso é só parte da Educação Física, então não tem pistola de largada."
+    "Isso é só parte da aula de Educação Física, então não tem arma de largada."
 
 # game/scripts/episode08.rpy:714
 translate portugues episode08_6fcd4c1d:
 
     # "However, Asumi looks like she's in a serious athletic competition."
-    "No entanto, Asumi parece que está em uma competição atlética séria."
+    "No entanto, Asumi parece estar numa competição atlética de verdade."
 
 # game/scripts/episode08.rpy:715
 translate portugues episode08_38b4be46:
@@ -1684,7 +1684,7 @@ translate portugues episode08_40304d34:
 translate portugues episode08_23f5d036:
 
     # "They zip away, leaving a cloud of dust behind. All Tomoe, our classmates, and I can do is remain silent and watch their battle."
-    "Elas saem rapidamente, deixando uma nuvem de poeira para trás. Tudo que Tomoe, nossos colegas e eu podemos fazer é ficar em silêncio e assistir à batalha delas."
+    "Elas disparam, deixando uma nuvem de poeira para trás. Tudo o que Tomoe, nossos colegas e eu podemos fazer é ficar em silêncio e assistir à batalha delas."
 
 # game/scripts/episode08.rpy:728
 translate portugues episode08_42e171e6:
@@ -1710,7 +1710,7 @@ translate portugues episode08_4e9cbba4:
     # voice na0096
     # namiki "Keeping plenty of bread around for the subordinates is an important responsibility of a leader!"
     voice na0096
-    namiki "Manter bastante pão por perto para os subordinados é uma responsabilidade importante de uma líder!"
+    namiki "Manter pão suficiente pros subordinados é uma das grandes responsabilidades de uma líder!"
 
 # game/scripts/episode08.rpy:746
 translate portugues episode08_8193407b:
@@ -1718,7 +1718,7 @@ translate portugues episode08_8193407b:
     # voice as0254
     # asumi "I won't lose! I'll do any kind of duty... I'll do it! H...hey! Don't push!"
     voice as0254
-    asumi "Não vou perder! Farei qualquer tipo de dever... Eu farei! E...ei! Não empurre!"
+    asumi "Não vou perder! Vou cumprir qualquer dever... Eu vou! E-ei! Não empurre!"
 
 # game/scripts/episode08.rpy:753
 translate portugues episode08_a749c1b9:
@@ -1774,7 +1774,7 @@ translate portugues episode08_866aae30:
     # voice na0098
     # namiki "One can't become a leader by sprinting alone. One has to be good at long distance races as well!"
     voice na0098
-    namiki "Não se pode se tornar uma líder apenas correndo rápido. Tem que ser boa em corridas de longa distância também!"
+    namiki "Não dá pra virar líder só correndo rápido. Tem que ser boa em corrida de longa distância também!"
 
 # game/scripts/episode08.rpy:782
 translate portugues episode08_fdcf37c1:
@@ -1800,7 +1800,7 @@ translate portugues episode08_bacf528f:
 translate portugues episode08_97e0e8f3:
 
     # "Finally, the harsh, noisy day is over."
-    "Finalmente, o dia difícil e barulhento acabou."
+    "Finalmente, esse dia cansativo e barulhento acabou."
 
 # game/scripts/episode08.rpy:797
 translate portugues episode08_216aef99:
@@ -1824,7 +1824,7 @@ translate portugues episode08_fe28062d:
     # voice as0257
     # asumi "Why don't you go back to your room! You're not our roommate!"
     voice as0257
-    asumi "Por que você não volta para o seu quarto! Você não é nossa colega de quarto!"
+    asumi "Por que você não volta pro seu quarto!? Você nem é nossa colega de quarto!"
 
 # game/scripts/episode08.rpy:812
 translate portugues episode08_0ab5d319:
@@ -1846,7 +1846,7 @@ translate portugues episode08_eb8c7e2e:
 translate portugues episode08_5e81bce4:
 
     # "I guess the noisy day continues."
-    "Acho que o dia barulhento continua."
+    "Pelo visto, o dia barulhento continua."
 
 # game/scripts/episode08.rpy:826
 translate portugues episode08_b8f82de2:
@@ -1862,7 +1862,7 @@ translate portugues episode08_f84a25d1:
     # voice as0259
     # asumi "What's with that score?"
     voice as0259
-    asumi "O que significa essa pontuação?"
+    asumi "Que pontuação é essa?"
 
 # game/scripts/episode08.rpy:836
 translate portugues episode08_c535a396:
@@ -1882,7 +1882,7 @@ translate portugues episode08_97645536:
 translate portugues episode08_f669b882:
 
     # "Asumi doesn't agree with those results at all."
-    "Asumi não concorda nada com esses resultados."
+    "A Asumi não concorda nem um pouco com esse resultado."
 
 # game/scripts/episode08.rpy:843
 translate portugues episode08_33234bcb:
@@ -1890,7 +1890,7 @@ translate portugues episode08_33234bcb:
     # voice as0260
     # asumi "How the hell did you get those numbers? Explain it to me clearly."
     voice as0260
-    asumi "Como diabos você chegou nesses números? Me explique claramente."
+    asumi "Como diabos você chegou nesses números? Me explica direito."
 
 # game/scripts/episode08.rpy:848
 translate portugues episode08_05b5a121:
@@ -1954,13 +1954,13 @@ translate portugues episode08_20f934ac:
 translate portugues episode08_345c3a7d:
 
     # "A 'wake up early match,' 'drinking hot miso-soup match' and a 'karaoke match.'"
-    "Uma 'competição para acordar cedo', 'competição para beber sopa de missô quente' e uma 'competição de karaokê'."
+    "Uma ‘competição de acordar cedo’, uma ‘competição de tomar missô quente’ e até uma ‘competição de karaokê’."
 
 # game/scripts/episode08.rpy:869
 translate portugues episode08_5b66fcf6:
 
     # "I don't know what's happening with their results."
-    "Não sei o que está acontecendo com os resultados delas."
+    "Não faço ideia de como elas estão marcando esses resultados."
 
 # game/scripts/episode08.rpy:870
 translate portugues episode08_9e5a890d:
@@ -2000,7 +2000,7 @@ translate portugues episode08_855cc8a9:
     # voice as0261
     # asumi "I AM TELLING YOU! THIS IS NOT YOUR ROOM!"
     voice as0261
-    asumi "ESTOU TE DIZENDO! ESTE NÃO É SEU QUARTO!"
+    asumi "ESTOU TE DIZENDO! ESSE NÃO É SEU QUARTO!"
 
 # game/scripts/episode08.rpy:891
 translate portugues episode08_a500e673:
@@ -2052,7 +2052,7 @@ translate portugues episode08_f7582f2e:
     # voice as0262
     # asumi "I'll tell them to go to your room when they get back, alright!?"
     voice as0262
-    asumi "Vou dizer para elas irem ao seu quarto quando voltarem, certo!?"
+    asumi "Vou falar pra elas irem pro seu quarto quando voltarem, tá bom!?"
 
 # game/scripts/episode08.rpy:907
 translate portugues episode08_278d7b3b:
@@ -2092,7 +2092,7 @@ translate portugues episode08_13fd7ec3:
 translate portugues episode08_39e0ac44:
 
     # yusuke "Is that alright? Letting them go, that is. I don't know what Namiki will tell them."
-    yusuke "Tudo bem deixá-las ir? Não sei o que a Namiki vai dizer para elas."
+    yusuke "Tudo bem deixar elas irem? Não sei o que a Namiki vai falar pra elas."
 
 # game/scripts/episode08.rpy:925
 translate portugues episode08_22ab34b7:
@@ -2100,7 +2100,7 @@ translate portugues episode08_22ab34b7:
     # voice as0264
     # asumi "It's OK. I want to battle her fair and square."
     voice as0264
-    asumi "Está OK. Quero batalhar com ela de forma justa."
+    asumi "Tudo bem. Quero lutar com ela de forma justa."
 
 # game/scripts/episode08.rpy:927
 translate portugues episode08_58a67edd:
@@ -2118,7 +2118,7 @@ translate portugues episode08_f45db0b1:
 translate portugues episode08_e838499a:
 
     # "There's something a little different about her... She's not her usual self."
-    "Tem algo um pouco diferente nela... Ela não está como normalmente está."
+    "Tem algo diferente nela… Ela não está como de costume."
 
 # game/scripts/episode08.rpy:931
 translate portugues episode08_82088287:
@@ -2166,7 +2166,7 @@ translate portugues episode08_545c4f92:
 translate portugues episode08_985e4432:
 
     # "Since she's feeling down right now, I want to say something to her."
-    "Já que ela está se sentindo pra baixo agora, quero dizer algo para ela."
+    "Como ela está pra baixo agora, eu quero dizer algo pra ela."
 
 # game/scripts/episode08.rpy:945
 translate portugues episode08_2978dbbb:
@@ -2218,7 +2218,7 @@ translate portugues episode08_79fa30f2:
 translate portugues episode08_3b5c894f:
 
     # "She may get depressed once in a while, but Asumi has her way of fighting to finish it her way."
-    "Ela pode ficar deprimida de vez em quando, mas Asumi tem seu jeito de lutar para terminar do jeito dela."
+    "Ela pode ficar deprimida às vezes, mas a Asumi tem seu próprio modo de lutar e resolver as coisas."
 
 # game/scripts/episode08.rpy:959
 translate portugues episode08_6c7c90fc:
@@ -2268,7 +2268,7 @@ translate portugues episode08_43321f12:
 translate portugues episode08_c251e634:
 
     # "I have to tell her before all my willpower is gone... Without sparing a moment, I say what I need to tell her."
-    "Tenho que dizer a ela antes que toda a minha força de vontade acabe... Sem perder um momento, digo o que preciso dizer a ela."
+    "Tenho que falar antes que toda a minha força de vontade acabe… Sem pensar duas vezes, digo o que preciso dizer."
 
 # game/scripts/episode08.rpy:983
 translate portugues episode08_eb9be628:
@@ -2292,7 +2292,7 @@ translate portugues episode08_a68c0fb2:
 translate portugues episode08_8d2b996c:
 
     # "When she yells, laughs, or unleashes a direct attack, she's not as scary as she was earlier."
-    "Quando ela grita, ri ou desfere um ataque direto, ela não é tão assustadora quanto era antes."
+    "Quando ela grita, ri ou parte pra um ataque direto, ela não é tão assustadora quanto antes."
 
 # game/scripts/episode08.rpy:990
 translate portugues episode08_32d9e0a7:
@@ -2330,7 +2330,7 @@ translate portugues episode08_6cdf76b0:
 translate portugues episode08_553db179:
 
     # "New visitors arrive in the uncomfortable atmosphere."
-    "Novas visitas cheiam no clima desconfortável."
+    "Novas visitas chegam no clima desconfortáve"
 
 # game/scripts/episode08.rpy:1001
 translate portugues episode08_6b4911b9:
@@ -2378,7 +2378,7 @@ translate portugues episode08_5cf17ba1:
 translate portugues episode08_c09dcb95:
 
     # "Worried about what Namiki's going to do, I decide to watch them quietly from the corner of the room."
-    "Preocupado com o que Namiki vai fazer, decido observá-las quieto do canto do quarto."
+    "Preocupado com o que a Namiki pode fazer, decido observá-las em silêncio, do canto do quarto."
 
 # game/scripts/episode08.rpy:1033
 translate portugues episode08_200b7fb2:
@@ -2390,7 +2390,7 @@ translate portugues episode08_200b7fb2:
 translate portugues episode08_b5c2cd54:
 
     # "I make my decision."
-    "Tomo minha decisão."
+    "Tomo a minha decisão."
 
 # game/scripts/episode08.rpy:1035
 translate portugues episode08_129c9c8c:
@@ -2415,7 +2415,7 @@ translate portugues episode08_f5527612:
 translate portugues episode08_ab19ee0b:
 
     # "After all, something scary is scary."
-    "Afinal de contas, algo assustador é assustador."
+    "No fim das contas, o que é assustador… é assustador."
 
 # game/scripts/episode08.rpy:1039
 translate portugues episode08_0a821fc1:
@@ -2447,7 +2447,7 @@ translate portugues episode08_167ff0d0:
 translate portugues episode08_ff9086b6:
 
     # "Her voice is lower than usual, obviously distressed about something."
-    "Sua voz está mais baixa que o normal, obviamente angustiada com algo."
+    "A voz dela está mais baixa que o normal; ela claramente está angustiada com alguma coisa."
 
 # game/scripts/episode08.rpy:1052
 translate portugues episode08_9613d80a:
@@ -2459,7 +2459,7 @@ translate portugues episode08_9613d80a:
 translate portugues episode08_15c0ca0a:
 
     # "They look at each other for a second and leave the room. I follow them."
-    "Elas se olham por um segundo e saem do quarto. Eu as sigo."
+    "Elas trocam um olhar por um instante e deixam o quarto. Eu as sigo."
 
 # game/scripts/episode08.rpy:1060
 translate portugues episode08_ecc9ce28_1:
@@ -2501,7 +2501,7 @@ translate portugues episode08_fe1e95b6:
 translate portugues episode08_916fe3e3:
 
     # "I decide to watch them quietly from the corner of the room."
-    "Decido observá-las quieto do canto do quarto."
+    "Decido observá-las em silêncio, do canto do quarto."
 
 # game/scripts/episode08.rpy:1081
 translate portugues episode08_b4a515ec:
@@ -2531,7 +2531,7 @@ translate portugues episode08_feec7b7b:
 translate portugues episode08_28d24612:
 
     # "She tells them to wait and starts looking for some items in a bag."
-    "Ela diz para elas esperarem e começa a procurar alguns itens em uma bolsa."
+    "Ela pede que esperem e começa a procurar alguns itens dentro de uma bolsa."
 
 # game/scripts/episode08.rpy:1097
 translate portugues episode08_a5e627b2:
@@ -2553,7 +2553,7 @@ translate portugues episode08_746b401e:
     # voice na0113
     # namiki "They're gifts from me to you! You're both so cute, you need to live a little!"
     voice na0113
-    namiki "São presentes de mim para vocês! Vocês são tão fofas, precisam viver um pouco!"
+    namiki "São presentes meus para vocês! Vocês são tão fofas… precisam aproveitar a vida um pouco!"
 
 # game/scripts/episode08.rpy:1108
 translate portugues episode08_61b2abcf:
@@ -2603,7 +2603,7 @@ translate portugues episode08_ba4d34a4:
 translate portugues episode08_71b24837:
 
     # "A big headband in one hand, and a pretty hair brooch in the other."
-    "Uma faixa de cabelo grande em uma mão, e um broche de cabelo bonito na outra."
+    "Uma faixa de cabelo grande em uma mão e um broche bonito na outra."
 
 # game/scripts/episode08.rpy:1127
 translate portugues episode08_deff96bd:
@@ -2617,7 +2617,7 @@ translate portugues episode08_37b4d67b:
     # voice na0115
     # namiki "I thought the ones you have seem a little dull, so I bought them."
     voice na0115
-    namiki "Achei que os que vocês têm parecem um pouco sem graça, então comprei estes."
+    namiki "Achei que os que vocês usam são meio sem graça, então comprei estes."
 
 # game/scripts/episode08.rpy:1134
 translate portugues episode08_fa08e574:
@@ -2631,7 +2631,7 @@ translate portugues episode08_fa08e574:
 translate portugues episode08_522c102d:
 
     # "After appearing to have been thinking about something, Tomoe speaks up."
-    "Depois de parecer estar pensando em algo, Tomoe fala."
+    "Depois de pensar por um momento, Tomoe finalmente fala."
 
 # game/scripts/episode08.rpy:1137
 translate portugues episode08_bf0874e3:
@@ -2667,13 +2667,13 @@ translate portugues episode08_b4249d26:
 translate portugues episode08_83252003:
 
     # "Tomoe's tone becomes harsh enough to frighten even Namiki."
-    "O tom de Tomoe fica severo o suficiente para assustar até a Namiki."
+    "O tom da Tomoe fica sério o bastante para assustar até a Namiki."
 
 # game/scripts/episode08.rpy:1157
 translate portugues episode08_b167c540:
 
     # "Surprised at herself, Tomoe continues to speak,"
-    "Surpresa consigo mesma, Tomoe continua a falar:"
+    "Surpresa consigo mesma, Tomoe continua,"
 
 # game/scripts/episode08.rpy:1162
 translate portugues episode08_0cc836bc:
@@ -2729,7 +2729,7 @@ translate portugues episode08_b39c91a8:
 translate portugues episode08_688822ba:
 
     # "Tomoe bows."
-    "Tomoe se inclina."
+    "Tomoe faz uma reverência."
 
 # game/scripts/episode08.rpy:1187
 translate portugues episode08_9e780f85:
@@ -2745,7 +2745,7 @@ translate portugues episode08_0e790125:
     # voice ma0056a
     # marumu "......(bow)"
     voice ma0056a
-    marumu "......(inclina-se)"
+    marumu "......(faz uma reverência)"
 
 # game/scripts/episode08.rpy:1194
 translate portugues episode08_30d92f66:
@@ -2773,7 +2773,7 @@ translate portugues episode08_b24c65ff:
 translate portugues episode08_f2401e27:
 
     # "She isn't excited at Tomoe saying her name this time."
-    "Ela não fica animada com Tomoe dizendo seu nome desta vez."
+    "Ela não fica animada com Tomoe dizendo seu nome dessa vez."
 
 # game/scripts/episode08.rpy:1206
 translate portugues episode08_5c1e235a:
@@ -2785,13 +2785,13 @@ translate portugues episode08_5c1e235a:
 translate portugues episode08_02c2b156:
 
     # "She can't be excited, having to look at Tomoe's serious expression."
-    "Ela não pode ficar animada, tendo que olhar para a expressão séria de Tomoe."
+    "Ela não tem como se animar, olhando para a expressão séria de Tomoe."
 
 # game/scripts/episode08.rpy:1211
 translate portugues episode08_b8ed2ff8:
 
     # "Like myself, Tomoe doesn't seem comfortable in this type of atmosphere."
-    "Assim como eu, Tomoe não parece confortável neste tipo de atmosfera."
+    "Assim como eu, Tomoe não parece nada confortável nesse tipo de clima."
 
 # game/scripts/episode08.rpy:1212
 translate portugues episode08_d9189850:
@@ -2833,7 +2833,7 @@ translate portugues episode08_f2b605c2:
 translate portugues episode08_7914e713:
 
     # "Marumu missed the point."
-    "Marumu não entendeu o ponto."
+    "Marumu não entendeu a situação."
 
 # game/scripts/episode08.rpy:1228
 translate portugues episode08_754b578b:
@@ -2861,7 +2861,7 @@ translate portugues episode08_cacfc0ea:
 translate portugues episode08_b4a69826:
 
     # "As soon as Tomoe says this, she wearily slumps to the floor."
-    "Assim que Tomoe diz isso, ela desaba cansada no chão."
+    "Assim que Tomoe diz isso, ela desaba no chão, exausta."
 
 # game/scripts/episode08.rpy:1243
 translate portugues episode08_eeb51a84:
@@ -2875,7 +2875,7 @@ translate portugues episode08_6c33a00b:
     # voice na0121
     # namiki "Ah...okay."
     voice na0121
-    namiki "Ah... ok."
+    namiki "Ah... tudo bem."
 
 # game/scripts/episode08.rpy:1249
 translate portugues episode08_e21149bb:
@@ -2949,7 +2949,7 @@ translate portugues episode08_6331ee03:
 translate portugues episode08_dd15b1d1:
 
     # "She opens her mouth and freezes with surprise."
-    "Ela abre a boca e congela de surpresa."
+    "Ela abre a boca e fica paralisada de surpresa."
 
 # game/scripts/episode08.rpy:1282
 translate portugues episode08_b6a071aa:
@@ -2957,7 +2957,7 @@ translate portugues episode08_b6a071aa:
     # voice na0124
     # namiki "Actually, I didn't really want to become the leader. It's a bother."
     voice na0124
-    namiki "Na verdade, eu não queria realmente me tornar a líder. É um incômodo."
+    namiki "Na verdade, eu nem queria me tornar a líder. É um incômodo."
 
 # game/scripts/episode08.rpy:1287
 translate portugues episode08_967422a1:
@@ -3001,13 +3001,13 @@ translate portugues episode08_2e7e0243:
 translate portugues episode08_cfc484a2:
 
     # "Asumi is miffed at her rival's sudden giving up of the leader contest."
-    "Asumi está irritada com a desistência repentina de sua rival da disputa de líder."
+    "Asumi fica irritada com a desistência repentina de sua rival na disputa pela liderança."
 
 # game/scripts/episode08.rpy:1307
 translate portugues episode08_aad906d2:
 
     # "But the others, including myself, look at each other and laugh."
-    "Mas os outros, incluindo eu, olham uns para os outros e riem."
+    "Mas os outros, incluindo eu, trocam olhares e começam a rir."
 
 # game/scripts/episode08.rpy:1308
 translate portugues episode08_90f37ded:
@@ -3019,7 +3019,7 @@ translate portugues episode08_90f37ded:
 translate portugues episode08_1513e85f:
 
     # "But what she says next makes me regret thinking she was nice."
-    "Mas o que ela diz a seguir me faz arrepender de ter pensado que ela era legal."
+    "Mas o que ela diz em seguida me faz me arrepender de ter achado ela legal."
 
 # game/scripts/episode08.rpy:1313
 translate portugues episode08_7fb9965f:
@@ -3027,7 +3027,7 @@ translate portugues episode08_7fb9965f:
     # voice na0127
     # namiki "I'll train you as your master, Asumin!"
     voice na0127
-    namiki "Vou treiná-la como sua mestra, Asumin!"
+    namiki "Vou te treinar como sua mestra, Asumin!"
 
 # game/scripts/episode08.rpy:1318
 translate portugues episode08_31e4cdd2:
@@ -3065,7 +3065,7 @@ translate portugues episode08_0398b8b6:
     # voice to0148
     # tomoe "Oh...really."
     voice to0148
-    tomoe "Oh... sério."
+    tomoe "Oh... é mesmo."
 
 # game/scripts/episode08.rpy:1339
 translate portugues episode08_1d955004:
@@ -3149,7 +3149,7 @@ translate portugues episode08_bb44a632:
     # voice hs0007
     # kaoru "Is Namiki your friend? You need to do something about her!"
     voice hs0007
-    kaoru "Namiki é amiga de vocês? Precisam fazer algo sobre ela!"
+    kaoru "A Namiki é amiga de vocês? Vocês precisam fazer algo sobre ela!"
 
 # game/scripts/episode08.rpy:1384
 translate portugues episode08_8712ad50:
@@ -3165,7 +3165,7 @@ translate portugues episode08_087f64b2:
     # voice yu0009
     # akane "She unexpectedly barged in our room and told us that she's going to be our leader!"
     voice yu0009
-    akane "Ela invadiu nosso quarto inesperadamente e nos disse que vai ser nossa líder!"
+    akane "Ela invadiu nosso quarto do nada e disse que vai ser nossa líder!"
 
 # game/scripts/episode08.rpy:1394
 translate portugues episode08_84f89d2b:
@@ -3179,7 +3179,7 @@ translate portugues episode08_84f89d2b:
 translate portugues episode08_5d83ea75:
 
     # "The three of them are so mad, but my roommates look at each other and laugh."
-    "As três estão tão bravas, mas minhas colegas de quarto se olham e riem."
+    "As três estão furiosas, mas minhas colegas de quarto trocam olhares e começam a rir."
 
 # game/scripts/episode08.rpy:1397
 translate portugues episode08_a008ba80:
