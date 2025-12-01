@@ -10,7 +10,7 @@ translate portugues episode09_5078c40c:
 translate portugues episode09_1629cf45:
 
     # "We have an achievement test once in a while, even though the Aiho School has its own educational standards."
-    "De vez em quando fazemos uma prova de avaliação, mesmo a Escola Aiho tendo seus próprios padrões educacionais."
+    "De vez em quando fazemos uma prova de avaliação, mesmo a Escola Aiho tendo seus próprios padrões de ensino."
 
 # game/scripts/episode09.rpy:11
 translate portugues episode09_778d6fbd:
@@ -46,7 +46,7 @@ translate portugues episode09_f1a6bbe0:
 translate portugues episode09_8e0827a1:
 
     # "We study together because of Asumi's selfish ways."
-    "A gente acaba estudando junto por causa das manias da Asumi."
+    "A gente acaba estudando junto por causa do jeito egoísta da Asumi."
 
 # game/scripts/episode09.rpy:26
 translate portugues episode09_75741727:
@@ -133,7 +133,7 @@ translate portugues episode09_23f9bf53:
     # voice to1000
     # tomoe "It's a... Whaaaa..."
     voice to1000
-    tomoe "É a... Hwaaaa..."
+    tomoe "É a... Aaaah..."
 
 # game/scripts/episode09.rpy:57
 translate portugues episode09_11bc9f23:
@@ -241,7 +241,7 @@ translate portugues episode09_80ff2e01:
 translate portugues episode09_5e4dea6a:
 
     # "I thought I was doing well in terms of following her."
-    "Eu achei que estava indo bem em segui-la."
+    "Achei que tava me saindo bem em seguir ela."
 
 # game/scripts/episode09.rpy:88
 translate portugues episode09_2f3bd140:
@@ -259,7 +259,7 @@ translate portugues episode09_85b30bf3:
 translate portugues episode09_3599905c:
 
     # "Dead silence... I look at the shining stars in the sky."
-    "Silêncio total... Eu olho para as estrelas brilhando no céu."
+    "Silêncio total... Olho para as estrelas brilhando no céu."
 
 # game/scripts/episode09.rpy:94
 translate portugues episode09_f6b84a38:
@@ -299,7 +299,7 @@ translate portugues episode09_faeadbd4:
 translate portugues episode09_80fd03df:
 
     # "She calls herself, 'Your Shadow Leader.'"
-    "Ela se autointitula a ‘Sua Líder das Sombras’."
+    "Ela se autointitula 'Sua Líder das Sombras'."
 
 
 # game/scripts/episode09.rpy:111
@@ -368,7 +368,7 @@ translate portugues episode09_e6a34e0c:
     # voice na0132
     # namiki "Don't be jealous, I made a good nickname for you too!"
     voice na0132
-    namiki "Não fica com ciúmes, eu fiz um apelido legal pra você também!"
+    namiki "Não fica com ciúmes, eu inventei um apelido legal pra você também!"
 
 # game/scripts/episode09.rpy:138
 translate portugues episode09_ec3e98ab:
@@ -406,7 +406,7 @@ translate portugues episode09_e64e4742:
 translate portugues episode09_ade83d02:
 
     # "I think she wants to do something befitting a 'Shadow Leader,' just a bit."
-    "Acho que ela só queria fazer algo digno de uma 'Líder das Sombras', só um pouquinho."
+    "Acho que ela só queria fazer algo um pouquinho digno de uma 'Líder das Sombras'."
 
 # game/scripts/episode09.rpy:164
 translate portugues episode09_429eeeb3:
@@ -424,7 +424,7 @@ translate portugues episode09_58d2a2cb:
 translate portugues episode09_01e6f270:
 
     # yusuke "Ah? Where's Marumu?"
-    yusuke "Hã? Onde está a Marumu?"
+    yusuke "Hã? Cadê a Marumu?"
 
 # game/scripts/episode09.rpy:174
 translate portugues episode09_c36fa0b6:
@@ -438,7 +438,7 @@ translate portugues episode09_c36fa0b6:
 translate portugues episode09_f25faa92:
 
     # "We left our room together, but I don't see her now."
-    "Saímos do quarto juntos, mas agora não a vejo."
+    "Saímos do quarto juntas, mas agora não estou vendo ela."
 
 # game/scripts/episode09.rpy:177
 translate portugues episode09_ed696de1:
@@ -482,7 +482,7 @@ translate portugues episode09_de42de8e:
 translate portugues episode09_e17e71a7:
 
     # "I call Namiki,"
-    "Eu chamo a Namiki,"
+    "Chamo pela Namiki,"
 
 # game/scripts/episode09.rpy:191
 translate portugues episode09_5356f216:
@@ -539,7 +539,7 @@ translate portugues episode09_d990fbc0:
     # voice na0139
     # namiki "Tomo-Tomo! You're always welcome too, you know!? We can have a fun together."
     voice na0139
-    namiki "Tomo-Tomo! Você também é sempre bem-vinda, sabia!? Podemos nos divertir juntas."
+    namiki "Tomo-Tomo! Você também é sempre bem-vinda, sabia!? A gente pode se divertir bastante juntas."
 
 # game/scripts/episode09.rpy:214
 translate portugues episode09_8c305aaa:
@@ -708,13 +708,13 @@ translate portugues episode09_19822adc:
 translate portugues episode09_f522ec37:
 
     # "But this school has a lot of tournaments like 'tug of war,' 'once-every-four-years soccer tournament,' 'cooking,' etc., etc..."
-    "Mas essa escola tem muitos torneios como 'cabo de guerra', 'torneio de futebol que acontece a cada quatro anos', 'culinária', etc., etc..."
+    "Mas essa escola tem todo tipo de torneio: 'cabo de guerra', 'futebol que só acontece a cada quatro anos', 'culinária', etc., etc..."
 
 # game/scripts/episode09.rpy:277
 translate portugues episode09_476e96de:
 
     # "It's one of the trustees idea. All these tournaments are inter-class. He thinks that way, students will naturally learn to have cooperative spirits and friendship."
-    "É uma ideia de um dos diretores. Todos esses torneios são entre as turmas. Ele acha que assim os estudantes vão aprender naturalmente a ter espírito de cooperação e amizade."
+    "É uma ideia dos membros do conselho. Todos esses torneios são entre as turmas. Ele acha que assim os estudantes vão aprender naturalmente a ter espírito de cooperação e amizade."
 
 # game/scripts/episode09.rpy:278
 translate portugues episode09_5fdea036:
@@ -726,7 +726,7 @@ translate portugues episode09_5fdea036:
 translate portugues episode09_1c87ace0:
 
     # "This school is different from others."
-    "Esta escola é diferente das outras."
+    "Essa escola é diferente das outras."
 
 # game/scripts/episode09.rpy:280
 translate portugues episode09_92ca1c74:
@@ -744,7 +744,7 @@ translate portugues episode09_86b7c2d9:
 translate portugues episode09_79a4f3e9:
 
     # yusuke "Maybe they're just slaphappy?"
-    yusuke "Talvez eles só estejam animados demais?"
+    yusuke "Talvez eles estejam apenas eufóricos?"
 
 # game/scripts/episode09.rpy:283
 translate portugues episode09_c780f951:
@@ -800,7 +800,7 @@ translate portugues episode09_aadab086:
 translate portugues episode09_660e7194:
 
     # "'A regular report meeting.'"
-    "'Uma reunião de relatório.'"
+    "'Uma reunião para atualizar ela.'"
 
 # game/scripts/episode09.rpy:306
 translate portugues episode09_f1cdb04f:
@@ -904,7 +904,7 @@ translate portugues episode09_9556212e:
 translate portugues episode09_79e0afe5:
 
     # yusuke "No, I don't have any problems."
-    yusuke "Não, eu não tenho problema nenhum."
+    yusuke "Não, não tenho problema nenhum."
 
 
 # game/scripts/episode09.rpy:342
@@ -970,7 +970,7 @@ translate portugues episode09_9597a254:
 translate portugues episode09_29a4285d:
 
     # "I think she might make fun of me if I visit her again."
-    "Acho que ela vai zombar de mim se eu visitá-la de novo."
+    "Acho que ela vai tirar sarro de mim se eu visitá-la de novo."
 
 # game/scripts/episode09.rpy:359
 translate portugues episode09_1acf36ad:
@@ -994,7 +994,7 @@ translate portugues episode09_36950f67:
 translate portugues episode09_afb2e9ee:
 
     # "It's a small sound, but it wakes me up."
-    "É um som pequeno, mas me acorda."
+    "É um barulho pequeno, mas mesmo assim me acorda."
 
 # game/scripts/episode09.rpy:366
 translate portugues episode09_36a1ea1d:
@@ -1006,13 +1006,13 @@ translate portugues episode09_36a1ea1d:
 translate portugues episode09_528a2eee:
 
     # "That's because I've gotten used to the idea of getting up in case Marumu goes out in the middle of the night again."
-    "Isso porque eu me acostumei com a ideia de levantar caso a Marumu saia de novo no meio da noite."
+    "Isso porque eu me acostumei com a ideia de levantar caso Marumu saia de novo no meio da noite."
 
 # game/scripts/episode09.rpy:368
 translate portugues episode09_67efad97:
 
     # yusuke "I may come closer to solving Marutan's riddle tonight!"
-    yusuke "Talvez eu finalmente chegue mais perto de resolver o enigma da Marutan essa noite!"
+    yusuke "Talvez eu finalmente chegue mais perto de resolver o enigma da Marutan esta noite!"
 
 # game/scripts/episode09.rpy:369
 translate portugues episode09_953b53ad:
@@ -1036,7 +1036,7 @@ translate portugues episode09_89307113:
 translate portugues episode09_a6bce439:
 
     # "I lose track of her again."
-    "Perco ela de vista de novo."
+    "Perco ela de vista mais uma vez."
 
 # game/scripts/episode09.rpy:377
 translate portugues episode09_fb6d0db7:
@@ -1098,7 +1098,7 @@ translate portugues episode09_9acd5980:
 translate portugues episode09_51117914:
 
     # yusuke "Hmm...I guess I feel the same way."
-    yusuke "Hmm... acho que me sinto igual."
+    yusuke "Hmm... acho que sinto o mesmo."
 
 # game/scripts/episode09.rpy:389
 translate portugues episode09_7d4bf130:
@@ -1162,7 +1162,7 @@ translate portugues episode09_6f9769ef:
 translate portugues episode09_f71abe3d:
 
     # yusuke "Don't cry, please."
-    yusuke "Não chora, por favor."
+    yusuke "Não chore, por favor."
 
 # game/scripts/episode09.rpy:403
 translate portugues episode09_1c1cbc02:
@@ -1206,7 +1206,7 @@ translate portugues episode09_f86470b2:
 translate portugues episode09_23443531:
 
     # "I've been patient with my miserable life, but it'll all be for naught!"
-    "Eu tenho sido paciente com minha vida miserável, mas tudo vai ser em vão!"
+    "Tenho sido paciente com minha vida miserável, mas tudo vai ser em vão!"
 
 # game/scripts/episode09.rpy:412
 translate portugues episode09_21862985:
@@ -1224,7 +1224,7 @@ translate portugues episode09_26353aa1:
 translate portugues episode09_1000c939:
 
     # "I run away, and as I run, I bump into things I can't see."
-    "Eu fujo e, enquanto corro, trombo em coisas que não consigo ver."
+    "Corro e, enquanto fujo, trombo em coisas que não consigo ver."
 
 # game/scripts/episode09.rpy:419
 translate portugues episode09_c53beddc:
@@ -1286,7 +1286,7 @@ translate portugues episode09_b269cb20:
 translate portugues episode09_bc9f02a3:
 
     # "There's a thick board between us."
-    "Há uma tábua grossa entre nós."
+    "Há uma tábua grossa nos separando."
 
 # game/scripts/episode09.rpy:437
 translate portugues episode09_01db13de:
@@ -1304,7 +1304,7 @@ translate portugues episode09_150861ca:
 translate portugues episode09_31f03742:
 
     # "Well, anyway. I can hide for now."
-    "Bom, de qualquer forma. Posso me esconder por agora."
+    "Bem, de qualquer forma, posso me esconder por enquanto."
 
 # game/scripts/episode09.rpy:444
 translate portugues episode09_e6c74921:
@@ -1352,7 +1352,7 @@ translate portugues episode09_e70f0c73:
 translate portugues episode09_9840823c:
 
     # "It means... Yes! There's something new!"
-    "Isso significa... Sim! Tem algo novo!"
+    "Isso significa... Sim! Tem algo novo aqui!"
 
 # game/scripts/episode09.rpy:452
 translate portugues episode09_d9fafd84:
@@ -1430,7 +1430,7 @@ translate portugues episode09_5887e155:
 translate portugues episode09_13b20993:
 
     # "I'm not doing anything wrong... Oops, she notices me!"
-    "Não estou fazendo nada de errado... Opa, ela me notou!"
+    "Não estou fazendo nada de errado... Oops, ela me notou!"
 
 # game/scripts/episode09.rpy:480
 translate portugues episode09_e21bafd9:
@@ -1448,7 +1448,7 @@ translate portugues episode09_f3c3ffad:
 translate portugues episode09_968d57cf:
 
     # "I hit the hard, cold ground."
-    "Eu atinjo o chão duro e gelado."
+    "Eu caio no chão duro e gelado."
 
 # game/scripts/episode09.rpy:490
 translate portugues episode09_45407bed:
@@ -1484,7 +1484,7 @@ translate portugues episode09_8d6922e4:
 translate portugues episode09_968d57cf_1:
 
     # "I hit the hard, cold ground."
-    "Eu atinjo o chão duro e gelado."
+    "Eu caio no chão duro e gelado."
 
 # game/scripts/episode09.rpy:512
 translate portugues episode09_87316712:
@@ -1511,7 +1511,7 @@ translate portugues episode09_20f1b9e7:
 translate portugues episode09_109842ff:
 
     # "What a good cat!"
-    "Que gato bom!"
+    "Que gato maravilhoso!"
 
 # game/scripts/episode09.rpy:520
 translate portugues episode09_bbafc717:
@@ -1523,7 +1523,7 @@ translate portugues episode09_bbafc717:
 translate portugues episode09_1f6b7535:
 
     # "Painfully, I move around behind the bush."
-    "Com dor, eu me movo atrás do arbusto."
+    "Com dor, eu me arrasto para trás do arbusto."
 
 # game/scripts/episode09.rpy:522
 translate portugues episode09_fd5d08d3:
@@ -1645,7 +1645,7 @@ translate portugues episode09_87e24173:
 translate portugues episode09_84d0c46c:
 
     # "I remember the expression on her face when she suddenly looked back."
-    "Eu lembro da expressão no rosto dela quando ela olhou para trás de repente."
+    "Lembro da expressão no rosto dela quando ela olhou para trás de repente."
 
 # game/scripts/episode09.rpy:583
 translate portugues episode09_be5673c9:
@@ -1669,7 +1669,7 @@ translate portugues episode09_0e9ce79b:
 translate portugues episode09_95c97ba5:
 
     # "But Marutan... I only know her as 'the mysterious girl.'"
-    "Mas a Marutan... eu só a conheço como ‘a garota misteriosa’."
+    "Mas a Marutan... eu só conheço ela como 'a garota misteriosa'."
 
 # game/scripts/episode09.rpy:587
 translate portugues episode09_42b237ae:
@@ -1699,7 +1699,7 @@ translate portugues episode09_45a9d96c:
 translate portugues episode09_07f756b6:
 
     # "I wonder where she went, but I'm even more curious about her."
-    "Me pergunto para onde ela foi, mas fico ainda mais curioso sobre ela."
+    "Fico me perguntando para onde ela foi, e acabo ficando ainda mais curioso sobre ela."
 
 # game/scripts/episode09.rpy:596
 translate portugues episode09_98b5dbcb:
@@ -1743,7 +1743,7 @@ translate portugues episode09_f93c7821:
 translate portugues episode09_8203feea:
 
     # "'The Key to Becoming a Good Boss 101.'"
-    "'A Chave para se Tornar um Bom Chefe 101.'"
+    "'A Chave para se Tornar um Bom Líder 101'"
 
 # game/scripts/episode09.rpy:611
 translate portugues episode09_081de0e2:
@@ -1755,7 +1755,7 @@ translate portugues episode09_081de0e2:
 translate portugues episode09_cc0c9f11:
 
     # "'Leaders of the Last Century: The Legendary Leaders.'"
-    "'Líderes do Último Século: Os Líderes Lendários.'"
+    "'Líderes do Século Passado: Os Líderes Lendários.'"
 
 # game/scripts/episode09.rpy:613
 translate portugues episode09_bb698718:
@@ -1775,7 +1775,7 @@ translate portugues episode09_2eab884d:
 translate portugues episode09_9f09fe5f:
 
     # yusuke "I think you'd better study your major... Well, but reading books is good anyway..."
-    yusuke "Acho que era melhor você estudar o seu curso... Mas, bom, ler livros sempre é bom..."
+    yusuke "Acho que você devia estudar a sua área mesmo... Mas, bom, ler livros é sempre bom..."
 
 # game/scripts/episode09.rpy:618
 translate portugues episode09_869e91f8:
@@ -1801,7 +1801,7 @@ translate portugues episode09_2807ad0a:
 translate portugues episode09_9c238117:
 
     # "I ask Asumin."
-    "Eu pergunto à Asumin."
+    "Eu pergunto a Asumin."
 
 
 # game/scripts/episode09.rpy:626
@@ -1844,7 +1844,7 @@ translate portugues episode09_2364c030:
 translate portugues episode09_08e7a78b:
 
     # "She was the result of an illicit love affair, or they abandoned her to save food..."
-    "Ela deve ter sido fruto de um romance proibido, ou a abandonaram para poupar comida..."
+    "Ela pode ter sido fruto de um romance proibido, ou a abandonaram para poupar comida..."
 
 # game/scripts/episode09.rpy:640
 translate portugues episode09_b5f278ff:
@@ -1916,7 +1916,7 @@ translate portugues episode09_a707406d:
 translate portugues episode09_87131d96:
 
     # "I walk away miffed. Then Asumi says,"
-    "Eu saio irritado. Aí Asumi diz,"
+    "Eu saio irritado. Então Asumi diz,"
 
 # game/scripts/episode09.rpy:667
 translate portugues episode09_0f9221be:
@@ -1930,7 +1930,7 @@ translate portugues episode09_0f9221be:
 translate portugues episode09_db4f0370:
 
     # yusuke "Why, will you tell me something better?"
-    yusuke "Por quê, vai me contar algo melhor?"
+    yusuke "Por quê? Vai me contar algo melhor?"
 
 # game/scripts/episode09.rpy:673
 translate portugues episode09_0e429bd0:
@@ -1962,7 +1962,7 @@ translate portugues episode09_a1b10f02:
 translate portugues episode09_a89457e7:
 
     # "I know where it is. It's a Japanese-style hotel in a hot spring resort."
-    "Eu sei onde é. É um hotel em estilo japonês num vilarejo de águas termais."
+    "Eu sei onde é. É um hotel em estilo japonês em um vilarejo de águas termais."
 
 # game/scripts/episode09.rpy:683
 translate portugues episode09_cd7f6507:
@@ -1988,7 +1988,7 @@ translate portugues episode09_b531d3bc:
 translate portugues episode09_38b9306d:
 
     # "Suddenly, someone talks to me from behind."
-    "De repente, alguém fala comigo por trás."
+    "De repente, alguém fala comigo atrás de mim."
 
 # game/scripts/episode09.rpy:693
 translate portugues episode09_753c3347:
@@ -2015,7 +2015,7 @@ translate portugues episode09_4b1eca94:
 translate portugues episode09_4138a18d:
 
     # "What a fascinating idea! I was almost going to join her."
-    "Que ideia tentadora! Eu quase aceitei ir com ela."
+    "Que ideia tentadora! Eu quase aceitei me juntar a ela."
 
 # game/scripts/episode09.rpy:704
 translate portugues episode09_1407d33c:
@@ -2027,7 +2027,7 @@ translate portugues episode09_1407d33c:
 translate portugues episode09_91b12bca:
 
     # yusuke "NO! I have to have a strong mind. Of course, it'd be wonderful if I could take a bath with her."
-    yusuke "NÃO! Eu preciso manter a cabeça firme. Claro, seria maravilhoso tomar banho com ela."
+    yusuke "NÃO! Eu preciso manter a cabeça no lugar. Claro, seria maravilhoso tomar banho com ela."
 
 # game/scripts/episode09.rpy:707
 translate portugues episode09_1668c7e8:
@@ -2073,7 +2073,7 @@ translate portugues episode09_41a8a15d:
 translate portugues episode09_2a18fd1a:
 
     # "Why didn't I stay in the girls' dorm and wait for Tomoe!"
-    "Por que eu não fiquei no dormitório das garotas esperando pela Tomoe!"
+    "Por que eu não fiquei no dormitório das garotas esperando a Tomoe!"
 
 # game/scripts/episode09.rpy:723
 translate portugues episode09_1989d941:
@@ -2111,7 +2111,7 @@ translate portugues episode09_047d8c5e:
 translate portugues episode09_4f052bfa:
 
     # "I'm so embarrassed, I don't know what to say."
-    "Estou tão envergonhado que não sei o que dizer."
+    "Estou tão envergonhado que nem sei o que dizer."
 
 # game/scripts/episode09.rpy:737
 translate portugues episode09_d653f305:
@@ -2171,7 +2171,7 @@ translate portugues episode09_89277099:
 translate portugues episode09_a10b0b57:
 
     # yusuke "I could get hurt from what you said, you know? Ha ha ha."
-    yusuke "Eu poderia me magoar com o que você disse, sabia? Ha ha ha."
+    yusuke "Eu poderia até me magoar com o que você dissesse, sabia?"
 
 # game/scripts/episode09.rpy:760
 translate portugues episode09_24c4e613:
@@ -2183,7 +2183,7 @@ translate portugues episode09_24c4e613:
 translate portugues episode09_ad1dd4d1:
 
     # "Her lovely smile... NO! Don't get aroused, Yusuke!"
-    "Seu sorriso adorável… NÃO! Não fique excitado, Yusuke!"
+    "Esse sorriso adorável... NÃO! Não fica excitado, Yusuke!"
 
 # game/scripts/episode09.rpy:762
 translate portugues episode09_7c1a7411:
@@ -2195,7 +2195,7 @@ translate portugues episode09_7c1a7411:
 translate portugues episode09_27c54cd4:
 
     # "Besides, I came here to ask her something."
-    "Além disso, eu vim aqui para perguntar algo a ela."
+    "Além disso, eu vim aqui pra perguntar uma coisa pra ela."
 
 # game/scripts/episode09.rpy:764
 translate portugues episode09_0aeef842:
@@ -2233,7 +2233,7 @@ translate portugues episode09_f1c79143:
 translate portugues episode09_9a5bfe45:
 
     # "Her unforgettable, sad memories..."
-    "Suas memórias inesquecíveis e tristes…"
+    "Suas memórias tristes e inesquecíveis…"
 
 # game/scripts/episode09.rpy:779
 translate portugues episode09_b8993e3c:
@@ -2251,7 +2251,7 @@ translate portugues episode09_27c7c56d:
 translate portugues episode09_2f7c77a6:
 
     # "She could only watch the other kids play from outside of the park."
-    "Ela só conseguia observar as outras crianças brincando do lado de fora do parque."
+    "Ela só podia observar as outras crianças brincando do lado de fora do parque."
 
 # game/scripts/episode09.rpy:782
 translate portugues episode09_37d5371f:
@@ -2275,7 +2275,7 @@ translate portugues episode09_947665d8:
 translate portugues episode09_e8678c9e:
 
     # "Since then, he came to her everyday."
-    "Desde então, ele vinha vê-la todos os dias."
+    "Desde então, ele vinha visitá-la todos os dias."
 
 # game/scripts/episode09.rpy:786
 translate portugues episode09_91013651:
@@ -2299,7 +2299,7 @@ translate portugues episode09_4efe3d5d:
 translate portugues episode09_39f53268:
 
     # "And he said, 'I'm sorry, I have to go.'"
-    "E disse: 'Me desculpe, eu tenho que ir embora.'"
+    "E disse, 'Desculpa, eu tenho que ir embora.'"
 
 
 # game/scripts/episode09.rpy:790
@@ -2370,7 +2370,7 @@ translate portugues episode09_6801a38f:
 translate portugues episode09_4d3436db:
 
     # "As she tells me, I clearly understand."
-    "Enquanto ela me conta, eu entendo claramente."
+    "Enquanto ela me explica, tudo fica claro."
 
 # game/scripts/episode09.rpy:809
 translate portugues episode09_2572c93b:
@@ -2394,7 +2394,7 @@ translate portugues episode09_66545180:
 translate portugues episode09_6c963286:
 
     # "I become determined while I'm comforting the crying Tomoe."
-    "Eu me decido enquanto consolo a Tomoe, que chorava."
+    "Eu tomo minha decisão enquanto consolo a Tomoe chorando."
 
 # game/scripts/episode09.rpy:821
 translate portugues episode09_040c1fda:
