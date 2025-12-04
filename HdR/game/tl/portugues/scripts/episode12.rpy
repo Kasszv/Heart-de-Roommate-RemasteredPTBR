@@ -2762,3 +2762,11 @@ translate portugues strings:
     old "Don't answer."
     new ""
 
+# TODO: Translation updated at 2025-12-04 13:06
+
+translate portugues strings:
+
+    # game/scripts/episode12.rpy:4
+    old "Episode 12: Shaking Heart - Part 1"
+    new ""
+

@@ -608,3 +608,11 @@ translate portugues strings:
     old "I still don't know my true feelings."
     new ""
 
+# TODO: Translation updated at 2025-12-04 13:06
+
+translate portugues strings:
+
+    # game/scripts/episode13.rpy:4
+    old "Episode 13: Shaking Heart - Part 2"
+    new ""
+
