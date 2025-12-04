@@ -2462,7 +2462,7 @@ translate portugues strings:
 
     # game/scripts/episode11.rpy:4
     old "Episode 11: Close Encounter of the Two Sisters"
-    new ""
+    new "Episódio 11: Encontro Próximo das Duas Irmãs"
 
 # TODO: Translation updated at 2025-12-04 13:06
 
@@ -2470,5 +2470,5 @@ translate portugues strings:
 translate portugues episode11_67847901:
 
     # yusuke "I, ah..."
-    yusuke ""
+    yusuke "Eu, ah..."
 
