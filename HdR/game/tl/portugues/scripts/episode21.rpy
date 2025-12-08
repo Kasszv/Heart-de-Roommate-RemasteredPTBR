@@ -44,3 +44,11 @@ translate portugues episode21_end_707dc01a:
     voice ts0043
     nina ""
 
+# TODO: Translation updated at 2025-12-08 08:48
+
+translate portugues strings:
+
+    # game/scripts/episode21.rpy:4
+    old "Episode 21: The Adventures of Toshibo"
+    new ""
+

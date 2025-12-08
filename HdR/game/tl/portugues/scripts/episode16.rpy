@@ -1386,3 +1386,11 @@ translate portugues strings:
     old "Think of an excuse."
     new ""
 
+# TODO: Translation updated at 2025-12-08 08:48
+
+translate portugues strings:
+
+    # game/scripts/episode16.rpy:4
+    old "Episode 16: Love Storm"
+    new ""
+

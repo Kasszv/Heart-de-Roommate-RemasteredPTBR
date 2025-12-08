@@ -3336,3 +3336,11 @@ translate portugues strings:
     old "Have sex with her"
     new ""
 
+# TODO: Translation updated at 2025-12-08 08:48
+
+translate portugues strings:
+
+    # game/scripts/episode24.rpy:4
+    old "Episode 24: Harmony of Minds"
+    new ""
+

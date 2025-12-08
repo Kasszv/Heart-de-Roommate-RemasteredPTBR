@@ -580,3 +580,11 @@ translate portugues episode18_8b3071c7:
     # yusuke "I think you'll fail again if you continue the same way."
     yusuke ""
 
+# TODO: Translation updated at 2025-12-08 08:48
+
+translate portugues strings:
+
+    # game/scripts/episode18.rpy:4
+    old "Episode 18: The Day the Earth Falls"
+    new ""
+

@@ -398,3 +398,11 @@ translate portugues episode19_b_b1ddca81:
     # "Watching this, I feel proud of her."
     ""
 
+# TODO: Translation updated at 2025-12-08 08:48
+
+translate portugues strings:
+
+    # game/scripts/episode19.rpy:4
+    old "Episode 19: Then the Three Meet"
+    new ""
+

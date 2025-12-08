@@ -2086,3 +2086,11 @@ translate portugues episode25_c_378b38a3:
     # "Poor Yusuke..."
     ""
 
+# TODO: Translation updated at 2025-12-08 08:48
+
+translate portugues strings:
+
+    # game/scripts/episode25.rpy:4
+    old "Episode 25: Our Bright Youth"
+    new ""
+

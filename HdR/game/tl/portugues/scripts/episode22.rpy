@@ -1858,3 +1858,11 @@ translate portugues episode22_end_c292633d:
     # "I sympathize with their daddy black cat, who has to take care of these new faces. I watch them marching around."
     ""
 
+# TODO: Translation updated at 2025-12-08 08:48
+
+translate portugues strings:
+
+    # game/scripts/episode22.rpy:4
+    old "Episode 22: The New Life"
+    new ""
+

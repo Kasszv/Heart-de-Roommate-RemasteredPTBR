@@ -966,3 +966,11 @@ translate portugues episode20_c_e8c130f2:
     voice ma0151
     marumu ""
 
+# TODO: Translation updated at 2025-12-08 08:48
+
+translate portugues strings:
+
+    # game/scripts/episode20.rpy:4
+    old "Episode 20: The First Arranged Marriage Meeting"
+    new ""
+

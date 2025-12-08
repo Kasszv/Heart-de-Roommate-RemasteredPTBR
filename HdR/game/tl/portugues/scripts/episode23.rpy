@@ -948,3 +948,11 @@ translate portugues episode23_c_fd2708dc:
     # "Anyway, she leaves without saying a word."
     ""
 
+# TODO: Translation updated at 2025-12-08 08:48
+
+translate portugues strings:
+
+    # game/scripts/episode23.rpy:4
+    old "Episode 23: Fading Friendship"
+    new ""
+

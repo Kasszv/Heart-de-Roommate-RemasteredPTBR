@@ -900,3 +900,11 @@ translate portugues episode26_d_1d05a0f1:
     # asumi "......"
     asumi ""
 
+# TODO: Translation updated at 2025-12-08 08:48
+
+translate portugues strings:
+
+    # game/scripts/episode26.rpy:4
+    old "Episode 26: Roommates Forever"
+    new ""
+
